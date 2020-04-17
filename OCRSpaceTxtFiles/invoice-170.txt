@@ -1,0 +1,42 @@
+GST INVOICE Voucher	
+GURUNANAK PUSTAK BHANDAR,PIPARIYA-18-19 (Sales)	ABDULLA MARKET PIPARIYA	hvoice No.	Dated	
+GSTIN/UIN: 23AATPC6283C 12T	GST/18-19/0849	10-Mar-2019	
+State Name: Madhya Pradesh, Code: 23	11/71	Supplier's Ref.	Other Reference(s)	
+COntact: 0/5/6-22512.Aman 9893285777.Pramod 8959219680 Rajesh.91/9921879	Fax 07576-222512	
+Buyer	
+Tbrahim & Sons Bankhedi	
+Bankhedi	
+GSTIN/UIN	
+State Name	23ABSPH7290L1Z3	
+Maahya Pradesh, Code: 23	
+S:	
+Description ot	
+No	HSN/SAC GST	Quantity	Rate	perDisc. o	Amount	
+Goods	
+Rate	
+1 Dr Fixit Lw 1 Lt	
+2 SH 125gm	3824	3506	18 %	5 no	99.15 no	1,487.25	
+18 %	20	no	28.18 no	563.60	
+2,050.85	
+CGST	
+184.57	
+SGST	
+184.57	
+Rount Off	
+0.01	
+Total	35 no	2,420.00	
+Ount Chargeable (in words)	E. & O.E	
+lian Rupees Two Thousand Four Hundred Twenty Only	
+HSN/SAC	Taxable	Central lax	State Tax	Total	
+alue	Rate	Amount	Rate	Amount	
+ax Amount	
+4	1,487.25	133.85	133.3 85	7.70	
+563.60	9%	50.72	9 %	.72	101.4 44	
+Total	2,050.85	184.57	184.! .57	369.1 14	
+imount (in words) Indian Rupees Three Hundred Sixty Nine and Fourteen paise Only	
+VAT % Assessable Value VAT Amount	
+4	563.60	
+Total	563.60	
+for GURUNANAK PUSTAK BHANDAR,PIPARIYA 18-19 (Sales)	
+Authorised Signatory	
+This is a Computer Generated Invoice	

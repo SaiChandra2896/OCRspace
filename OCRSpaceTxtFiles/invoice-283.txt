@@ -1,0 +1,51 @@
+Tax Invoice	(ORIGINAL FOR RECIPIENT)	
+A.A.KHAMBATI & SONS	
+84 SIYAGANJ	Invoice No	Dated	
+INDORE	3328JK19-20	
+3-0ct-2019	
+GSTIN/UIN: 23AACFA2860012D	Delivery lote	Mode/Terms of Paymenl	
+State Name Madhya Pradesh, Code. 23	Supplier's Ref.	
+E-Miall aakhambati@gmail.cOm	Oher Referen ce(s)	
+Buyer	
+Buyers Order No.	Dated	
+EBRAHIM& SONS	
+NEAR OF THANA	Despatch Document No.	Delivery Note Date	
+SANKHEDI	
+GSTIN/UIN	
+23ABSPH7290L123	Despatcied through	Destination	
+State Name	Madhya Pradesh, Code23	
+Terrns ol Delivery	
+ontac	(07576)228469, 9926433252	
+Description of Goods	HSN/SACQuantity	Rate	per Disc.	Amount	
+0.	
+WIRE	72172010 40.0 KGS	4 00 KGS 15.25 %	1,830.60	
+20 GI	
+25.00	
+FRIEGHT ON SALES	
+167.1	
+GST	
+167.00	
+S GST	
+0.40	
+ROUND UP	
+Bill Details	
+Un Account	2,190.00 Dr	
+Total	40.00 KGS	rs 2,190.00	
+&O.E	
+AImOunt Chargeable (in words)	
+INR TWo ThouSand One Hundred Ninety Only	axabi	Gentral 13X	State Tax	Totai	
+Rate Amournt ax Amount	
+HSN/SAC	Value	Rate	Amount	334 00	
+9%	167.00	
+1,855.60	167.00	167.00	334.0	
+72172010	Total	1,855.60	167.00	
+--	INR Three Hundred Thirty Four Only	
+Tax Amount (in words)	
+Companys Bank Details	
+Bank Name	STATE BANK OF INDIA	
+Alc No.	33313516674	
+Branch & IFS Code Siyaganj Branch & SBINOUS0021	for A.A.KHAMBATI & SONS	
+e	
+Deciara	Ne declare that this invoice shows the actual price of the	
+goods described and tnat all particulars are true and correct.	SUBJECT TO INDORE JURISDICTION	AEtHoristd Sigyatory	
+This is a Computer Generated invoice	

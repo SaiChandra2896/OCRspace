@@ -1,0 +1,55 @@
+Tax Invoice	
+DASS HARDWARE STORE	aE ns ulaangalwar	pat	ad	
+state ae 7417A1	GSTiN/U1N: 23AACOFD95	ame: Mach FDS88L12H	Involce No.	19-20/1716	Dated	
+-Mail dassehardwarestorego	Buye	ardwr	417741	Dellvery Note	28-Sep-2019	
+Dom	Mode/Terms of Payment	
+Bankhedi	lbrahim Ali and Sons	Supplier's Ref. Other Reference(s)	
+State Name: Madhya Pradesh, Code:23	GSTIN/UIN: 23ABSPH7290L1Z3	Buyer's Order No.Dated	
+Despatch Document No. Delivery Note Date	
+Despatched through Destination	
+Terms of Delivery	
+Description of Goods	
+1 PT Super	HSN/SAC GST Quantity Rate	per	Amount	
+2 NC 3B	3814	Rate	
+30 1ltr	18 % 16.00 Ltr	
+3814	61.02 Ltr	976.32	
+3 NC 3B	18 % 30.00 Ltr	86.44 Ltr	
+4	5ltr	2,593.20	
+3814	
+4 Fibre Disc	18 % 20.00 Lir	
+77.97 Ltr	1,559.40	
+5 Marble Cutter	6805	18 % 100 PCS	
+14.41 PCS	
+6 Marble Cutter	8202	18 % 20 PCS	1,441.0bo	
+7 Bevel Chisel	8202	18 % 10 PCS	59.32 PCS	1,186.40	
+8 Bevel Chisel	8205	18 % 0 PCS	81.36 PCS	813.60	
+9 Bevel Chiseel	8205	18 % 10 PCS	63.56 Pcs	67.80 PCS	635.60	
+10 Oil Stone (Sili)	8205	678.00	
+18 % 10 PCS	
+11 Water Papeer	6804	72.03 PCS	720.30	
+18 % 12 PCS	
+6805	t 14.41 PCS	1,372.92	
+12 Dr. Slide/Telescopic Ch	18 % 500 PCSS	
+8302	7.88 Pcs	3,940.00	
+18 % 20 SET|	153.47 SET	
+3,069.4	
+SGST	18,986.14	
+Less	CGST	1,709.00	
+Rounded Off	
+1,709.00	
+(-0.14	
+Total	
+ount Chargeable (in words)	22,404.00	
+Twenty Two Thousand Four Hundred Four Only	
+.	&O.E	
+Company's Bank Details	
+Alc No.	Bank Name : HDFC Curront A/G-New	
+npany's PAN	AAOFD9889L	60200o38966281	
+Branch & 1FS Code: Hamidia Road & HDFCOO0400	
+aration	
+Tor DASS HARDWARE STORE	
+declare that this invoice shows the actual	
+f the goods described and that all pariculars are true and comect	
+unorised Signatory	
+SUBJECT TO BHOPAL JURISDICTION	
+This is a Computer Generated Invoice	

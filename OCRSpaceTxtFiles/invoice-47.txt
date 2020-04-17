@@ -1,0 +1,46 @@
+Tax Invoice	(ORIGINAL FOR RECIPIENT	
+A.A.KHAMBATI & SONS	
+84 SYAGANJ	Invcice No.	
+INDORE	Dated	
+GSTIN/UIN: 23AACFA2860Q1ZD	677 JK/19-20	Delivery Note	3-May-2019	Mode/Terms of Payment	
+E-Mail : aakhambati@gmail.com	State Name: Madhya Pradesh, Code : 23	
+Supplier's Ref.	
+Other Reference(S)	
+Buyer	
+EBRAHIM & SONS	Buyer's Order No.	Dated	
+NEAR OF THANA	
+BANKHEDI	Despatch Document No.	Delivery Note Date	
+GSTIN/UIN	23ABSPH7290L1Z3	
+State Name	Despatched through	Destination	
+Madhya Pradesh, Code :23	
+erins of Delivery	
+Contact	
+(O7576)228469, 9926433252	
+SI	
+Description of G000SS	
+HSN/SAC Quantity	Rate	per Disc. %	Amount	
+1 SELF TEPING SCREW	7317	
+2 KABZA	7,000 Nos	2.00 Nos 15.25 %	11,865.00	
+3 BOLT	73181300 40.00 Pkt	7318	100.00 Pkt	4,000.00	
+50.00 KGS	50.00 KGs	2,500.00	
+18,365.00	
+FRIEGHT ON SALES	84.0	
+C GST	1,660.41	
+S	GST	1,660.41	
+ROUND UP	0.1 18	
+Bill Details:	
+New Ref 677.W19-20	21,770.00 Dr	
+Total	rs 21,770.00	
+Amount Charge:ble (in words)	E. & O.E	
+INR Twenty Cne Thousand Seven Hundred Seventy Only	
+Taxable	Central Tax	State Tax	Total	
+HSN/SAC	
+Value	Rate Amount	Rate	Amount	lax Amount	
+7317	11,919.27	1,072.73	9%	1,072.73	2,145.46	
+4,018.30	9%	361. 65	9%	361.65	723.30	
+73181300	
+7318	2,511.43	9%	226.03	9%	226.03|	452.06	
+Total	18,449.00	1,660.41	1,660.41	3,320.82	
+Tax Amount (in words): INR Three Thousand Three Hundred T wenty and Eighty Two paise Only	
+Company's Bank Details	
+Bank Name	:STATE BANK OF INDIA	

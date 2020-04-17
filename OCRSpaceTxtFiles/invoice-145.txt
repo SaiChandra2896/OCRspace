@@ -1,0 +1,48 @@
+GST INVOICE Voucher	
+GURUNANAK PUSTAK BHA NDAR,PIPARIYA -18-19 (Sales)volce	STIN/UIN 22 PARIYA	CULLA MARK HANDAR P	Dated	
+Conlact 07576-22512 Aman 9890285727 Pramod 69582 19680 Raesh 9179921879	State Name Madhya Pradesh, Code 23	e Name Ma 83C1ZT	GPBCR2019-20/0154	upplers Ref	Othor Reference(s)	24-May-2019	
+ax 07576-222512	14/55	
+Buyer	
+TDrahun& Sons Bankhedi	ankhedi	
+GSTIN/UIN	
+State Name	23ABSPH7290L123	
+Madhya Pradesh, Code 23	
+S	
+Description of	
+S0005	HSNISAC GSTQuantity	
+TDr Fixit Lw 10 Lt	Kate	Rate per Disc % Amount	
+SH 250gm	3824	
+18 %	
+3506	4no	771.00	
+8 %	3,084.00	
+28 no	52.60	
+1,4/2.80	
+CGST	4,556.80	
+Less	SGST	
+410.1	
+Rount tOff	
+410.11	
+(0.02	
+Total	
+Amount Chargeable (in words)	10	
+R5,377.00	
+ndran Rupees Five Thousand Three Hundred seventy Seven Only	& OE	
+HSNSAC	
+824	axabie	Centraax	
+Yalue Rate	State	lax	
+Otal	
+5506	3,084.00 ount	Rate Amount dX Amout	
+2rT.55	
+1.4/280 0%	277.56	35.12	
+Total 4,556.80	e.55	o	
+132.55	
+410.11	265.10	
+ax Am ount (in words)Indian Rupees Eight Hun dred Twenty and Iwenty Two paise Only	410.11	820.22	
+VAI	
+Asses sable value VAT Amount	
+4.556.80	
+otal	
+4,556.80D	
+for GURUNANAK PUSTAK BHANDAR,PIPARIYA -18-19 (Sales)	
+SUBJECT TO PIPARIYA JURISDICTION	AUth orised Signatory	
+This is a Computer Generated invoice	

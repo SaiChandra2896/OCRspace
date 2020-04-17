@@ -1,0 +1,63 @@
+Tax Invoice	
+CHAIN HOUSE	
+4,Siyaganj.iNDORE	
+GODOWN:340/1/1,11GRIYA BADSHAH,AGARBATTI COMPLEX,SANWER ROAD, INDORE (M.P)	
+GSTINIUIN: 23AAHFC7476R12Q	
+State Name: Madhya Pradesh, Code: 23	
+Customer	-Mail talibengineeringwala@gmail.com	
+IBRAHIM AND SONS BANKHEDI	Invoice No.	001124/2019-20	
+BANKHEDI	Date	
+10-May-2019	
+GSTIN/UIN	: 23ABSPH7290L1Z3	erms of payment	CREDIT	
+State Name	
+Madhya Pradesh, Code 23	
+Description of	
+HSN/SAC	
+Soods and Services	uani ntity	Rate	per	Amount	
+1 Roofing Nails	
+2 Pipe Bolt	7317	50.000 Kgs.	53.39 Kgs.	
+2,669.50	
+7318	
+50.000 Kgs.	51.69 KgS.	2,584.50	
+5,254.00	
+FREGHT 18% 73	
+C GST	40.00	
+476.47	
+S GST	
+476.47	
+ROUND OFF	
+0.06	
+otal	100.000 Kgs.	
+Amount	Chargeable (in words)	6,247.00	
+E. & 0.E	
+Indian Rupees Six Thousand Two Hundred Forty Seven Only	
+HSN/SAC	Taxable	Central Tax	
+State TaX	Total	
+Value	Rate	Amount	
+Rate	
+7317	Amount	Tax Amount	
+2,669.50	%	240.26	
+9%	240.2 26	
+7318	480.5	
+2,584.50	9 %	232.61	
+9%	232.61	
+73	465.22	
+40.00	3.60	9%	
+3.60	7.20	
+Total	5,294.00	476.47	
+476.47	952.94	
+Tax Amount (in words)	Indian Rupees Nine Hundred Fifty Two and Ninety Four paise Only	
+Prev.Balance	41,514.00 Dr	
+I Amt.	6,247.00 DDr	
+Net Balance	47,761.00 Dr	Companys Bank Details	
+1) Bank Name	HDFC BANK	
+Ac No.	02818020001692	
+C	iranch 8& IES Coda	Cloth Market Indore & HDFCO000281	
+30EDS DELIVERED FROM GOOCW2Bran.ch & I	2) Bank Name	SBI BANK	
+AVG No.	35406916387	AIN	
+Branch & IFS Code	Siyaganj Indore&sEINeea002K	
+Declaration	
+We declare that this invoice shows the actual price of the	for CHIN duE	
+goods described and that all particulars are true and correct.	
+SUBJECT TO INDORE JURISDICTION	
+This is a Computer Generated Ihvoice	ORE	

@@ -1,0 +1,48 @@
+Tax Invoice	
+CHAIN HOUSE	
+4/1, Siyaganj,INDORE	
+GODOWN 340/1/1,TIGRIYA BADSHAH,AGARBATTI COMPLEX,SANWER ROAD, INDORE (M.P.)	GSTIN/UIN: 23AAHFC7476R120	
+State Name: Madhya Pradesh, Code: 23	
+Buyer	Contact: 0731-2537220,2534054,9826352524,9977980099	
+E-Mail: talibengineeringwala@gmail.com	
+BRAHIM AND SONS BANKHEDI	Ihvoice No.	003088/2019-20	
+BANKHEDI	Date	6-Jul-2019	
+GSTIN/UIN	Despatch through	MAHARAJA	
+PANAT No	23ABSPH7290L1Z3	
+erms ot payment	CREDIT	
+State Name	
+Madhya Pradesh, Code: 23	
+SI	
+Uescription of Goods	
+NO	HSNSAC	Rate	
+Quantity	per	Amount	
+RIVET (PKT)	
+RIVET (PKT)	7318	4 PKT	140.00 PKT	560.0	
+7318	6 PKT	138.00 PKT	828.00	
+,388.00	
+CC GST	
+124.92	
+S GST	124.92	
+ROUND OFF	0.16	
+Total	10 PKT	
+1,638.00	
+Amount Chargeable (in words)	E. & O.E	
+Indian Rupees One Thousand Six Hundred Thirty Eight Only	
+Taxable	Central Tax	State Tax	Total	
+Valu LIe	Rate	Amount	Rate	Amount	Tax Amount	
+1,388.00	9%	124.92	9%	.92	249.84	
+Total:	1,338.00	124.92	124.9	249.84	
+Tax Amount (in words)Indian Rupees Two Hundred Forty Nine and Eighty Four paise Only	
+Prev.Balance	6,247.00 Dr	
+Company's Bank Details	
+Bill Amt.	1,638.00 Dr	1) Bank Name	HDFC BANK	
+Net Balance	7,885.00 Dr	Alc	No.	02818020001692	
+Branch & IFS Code	Cloth Market Indore & HDFCO000281	
+2) Bank Name	SBI BANK	
+Alc	No.	35406916387	
+Branch & IFS Code	Siyaganj Indore & SpOUO021	
+kOIOUSE	
+Declaration	
+We declare that this invoIce shows the actual price of the goods	
+described and that all particulars are true and correct.	
+SUBJECT TO INDORE JURISDlCTION	

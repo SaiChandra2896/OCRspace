@@ -1,0 +1,37 @@
+nvoice No. 37	(ORIGINAL FOR RECIPIENT	
+Ref. No.	
+Dated 5-Apr-2019	
+INDU HARDWARE STORE (from 1-Apr-2018)	
+GSTIN/UIN: 23ABIPL6223D1Z3	
+State Name: Madhya Pradesh, Code 23	
+Tax invoice	
+Party: Ibrahim Ali and Sons Bankhedi	
+GSTIN/UIN : 23ABSPH7290L1Z3	
+State Name: Madhya Pradesh, Code:23	
+Place of Supply: Madhya Pradesh	
+S	Description of Goods	
+HSN/SAC| GSTQuantity Rate	per	Amount	
+Rate	
+1SANTRO PAINT 50 ML	3208	
+2 ROSE PAINTS 200ML II GR 3208	18 % 40 PCS	11.00 PCS	440.00D	
+18 % 16 PCS	34.00 PCS	544.00	
+984.00	
+SGST	
+CGST	88.56	
+Less	ROUNDING OFF	88.56	
+-0.12	
+Total	56 PCS	
+unt Chargeable (in words)	1,161.00	
+One Thousand One Hundred Sixty One Only	E. &0.E	
+HSN/SAC	Taxable	
+Central Tax	
+Value	Rate	Amount Rate	State Tax	Total	
+984.00O	9%	Amount Tax Amount	
+Total	88.56	9%	88.56	177.12	
+984.00	88.56	
+88.56	177.12	
+mount (in words) INR One Hundred Seventy Seven and Twelve paise Only	pany's Bank Details	
+ame: PUNJAB NATIONAL BANK A/C	
+No.	1561002100010696	
+Code: BHARTIPUR JABALPUR & PUNB0156100	
+tion	

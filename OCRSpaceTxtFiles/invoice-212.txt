@@ -1,0 +1,42 @@
+Tax Invoice	
+ABDULLA MARKET ,PIPARIYA	GURUNANAK PUSTAK BHANDAR,PIPARIYA 18-19 (Sales) Invoice No.	Dated	
+GSTIN/UIN: 23AATPC6283C1ZT	GPB/CR1920/0181	1-Jun-2019	
+State Name Madnya Pradesh, Code: 23	Supplier s Ref.	
+Other Reference(s)	
+Contact:07576-22512 Aman 9es328b/(7.Pramod 8959219680.Rajesh.9179921879	14/98	
+Fax: 07576-222512	
+Buyer	
+Ibrahim & Sons Bankhedi	
+Bankhedi	
+GSTIN/UIN	23ABSPH7290L1Z3	
+State Name	
+Madhya Pradesh, Code 23	
+SI	Description of	
+No.	Goods	HSN/SAC GST	Quantity	Rate	
+per Disc. %	Amount	
+Rate	
+1 Bulbond 500 MI	
+3506	18 %	
+16 no	40.37 no	645.92	
+CGST	
+SGST	58.13	
+58.13	
+Total	16 no	
+T762.18	
+Amount Chargeable (in words)	
+E. & OE	
+Indian Rupees Seven Hundred Sixty Two and Eighteen paise Only	
+HSN/SAC	Taxable	Central Tax	State Tax	Total	
+Value	Rate	Amount	Rate	Amount	
+ax Amount	
+645.92	9%	58.13	58.13	116.26	
+Total	645.92	58.13	58.13	
+116.26	
+lax Amount (in words) Indian Rupees One Hundred Sixteen and Twenty Six paise Only	
+VAT % Assessable Value VAT Amount	
+4	645.92	
+Total	645.92	
+for GURUNANAK PUSTAK BHANDAR,PIPARIYA 18-19 (Sales)	
+Authorised Signatory	
+SUBJECT TO PIPARIYA JURISDICTION	
+This is a Computer Generated Invoice	

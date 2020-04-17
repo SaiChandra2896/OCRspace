@@ -1,0 +1,40 @@
+Tax Invoice	
+A.A.KHAMBATI & SONS	Invoice No.	Dated	
+84 SIYAGANJ	
+INDORE	0308K/19-20	16-Apr-2019	
+GSTIN/UIN: 23AACFA28600120D	Delivery Note	Modell erms of Payment	
+dte Name: Madhya Pradesh, Code: 23	Supplier's Ref,	
+E-Mail :aakhambati@gmail.con	Other Reference(s)	
+Buyer	Buyers Order No.	Dated	
+EBRAHIM & SONS	
+NEAR OF THANA	Despalch Document No.	Delivery Note Date	
+BANKHEDI	
+GSTIN/UIN	
+23ABSPH7290L 1Z3	Despalched through	Destination	
+State Name	Madhya Pradesh, Code 23	
+ermsf Delivery	
+Contact	:(07576)228469, 9926433252	
+SI	
+Description of Goods	HSN/SAC Guantity	Rate	per DisC.	Amount	
+No	
+1 NUT & BOLT	66.00 KGS 15.25 %	12,305.70	
+73181500 220.00 KGS	
+FRIEGHT ON SALES	2.00	
+C GST	1,108.23	
+S GST	1,108.23	
+| Less	ROUND UP	(-)0	16	
+Bill Details:	
+14539.00 D	
+otal	220.00 KGS	rs 14,530.00	
+Dunt Chargeable (in words)	E. &O.E	
+Fourteen Thousand Five Hundred Thirty Only	
+HSN/SAC	Taxable	Central T ax	State Tax	Total	
+Value	Rate	Amount Rate	Amount	Tax Amount	
+1500	12,313.70	1,108.23	97%	1,108.23	2,216.46	
+Total	12,313.70	1,108.23	1,108.23	2.216.46	
+Amount (in words) INR Two Thousand Two Hundred Sixteen and Forty Six paise Only	
+Company's Bank Details	
+Bank Name	STATE BANK OF INDIA	
+A/c No.	33313516674	
+Branch & IFS Code: Siyaganj Branch & SBINOO30021	
+AnATI0	mIC	

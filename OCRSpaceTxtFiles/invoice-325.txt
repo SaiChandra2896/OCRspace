@@ -1,0 +1,62 @@
+TAX INVOICE	Original for Recipient	Whether lax is Payable under Heverse Charge Mechanisfm: No	
+Registered Office Address	Supplying location Adaress	Invoice Details	Order No. 0073898735	
+Asian Paints Limited	APL Bhopal-15ar	Order Date: 23.02.2019	
+bA, Shanti Nagar, Santacruz East,	Bening angotri Sheet Grih Put	Involce	MP1801241553	
+Mumbal- 400055	No.	Delivery: 0336355377	
+Khasra no.136/1,140/1,141 islam-	Del. Date: 23.02.2019	
+Tel / FAX022-62188000/022-62187111	Invoice Date: 23.02.2019	
+asianpaints	Int. Ref. No 1212761831	
+AN AAACA3622(	nagar Haad, karond,Bhopal 462001	
+Reference	
+StatebAad hya Pradesh	
+State Code: 23	
+GSTIN: 23AAACA3622K123	
+Bill lto Partys	Ship To Party	Details	
+Customer	00q0550130	Customer 0000550130	erms of Payment: Regular Cash	
+1BRAHIMALI & SONS	1BRAHIMALI & SONS	DISCOunt- Upcountry 3.50 %	
+NEAR POLICE STATION BANKHEDI	NEAR POLICE STATTON BANKHEDI	Due Date:25.03.2019	
+DIST- HOSHANGABAD 461990	DIST- HOSHANGABAD 461990	Gross welght:/3.200 KG	
+MAIN MARKET BANKHEDI 461990	MAIN MARRET BANRHEDI 461990	Volume b0 KgLt	-2	
+Tel No:9453214697	Tel No: 9453214697	Net Weight: 70.450 KG	
+PAN: ARWPV0817H	State Code: 23	Currency: INR/Indian Rupee	
+Place of Supply: Madhya Pradesh	GSTIN/UniquelD 23ABSPH7290L1Z3	Storage Loc.: 1001	
+65IN/Unique lD: 23ABSPH7290L1Z3	Site Contact Person:	Lagsheet No	
+COode: 23	Site Contact Person Ph: 9453214697	GC Note NO	
+Teitory Code : 00D1557003	Jehicle NO	
+MOdeettransport	
+In-Bill	Cash	Taxable	Tax	TOtal	
+Volume Rate	
+Value	Amaunt AmOunt	Amount	
+Material	Description	HSN/SAC aty PacKS (KLt)	(INRI	Disc.	Disc.	
+104.90-	412 81	
+2892. 10	
+0057B113310	APTRACTOREMUL TE3	3209	3 PAI 30.000	999.00 2997.00	
+1302.00	
+Revised MRP	260.29	
+.	
+IN: Central GST OP	260.29	
+INE State GST OP	2160. 19	
+1 PAI 20000 1897.00 1897.00	
+0-	830.6	
+0057B113320	APTRACTOREMUL TE3	3209	
+20LT	2440.00	
+Revised MRP	164.75	
+IN: Central GST OP	164./5	
+900	
+IN: State GST OP	4722.70	850.08 55/3.0o	
+4894.00	000 171.30-	
+Total	Taxable Amount	Total Amount	
+Summary	
+alue bae	4894.00	
+17130-	
+Reg. Cash Disc	
+AXABLE AMOUNT	4722.70	
+IN Central GS1- OP9%	4722.70	42504	
+4/22./0	425.04	
+IN State GST- OP 9 %	
+0.22	
+Commercial kounding	
+5573.00	
+Total DOCument Amount	
+Five Thousand Five Hundred Sevenity Three Rupees Only	
+Total Invoice Value ( In Words):	

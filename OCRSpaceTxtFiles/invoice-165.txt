@@ -1,0 +1,51 @@
+Tax Invoice	(ORIGINAL FOR RECIPIENT)	
+ohanisred Khambhati & Co.	
+, Maharani Roa	lnuoico ho.	Dated	
+OPp. Railwaystation	Indore	218-19	aF-2019	
+w rOmms ot Payment	of	
+GSTIN/UIN: 23AAUFM8721C227	
+Late Name Madhya Pradesh, Code 23	DALIS	Suppliera Ref.	Oher lROtarec	
+Consignee	UsTAFA MANPUR	
+yo Tdor No	Dated	
+SHAKTI ROAD	BRAHIM ALI & SONS	DN	18-Mar-2019	
+BANKHEDI	Lespatch Document No	Delivery Note Date	
+GSTIN/UIN	
+State Name	23ABSPH7290L123	Despatched through	Destin ation	
+Madhya Pradesh, Gode: 23	SHRI MAHARAJA TP BANKHEDI	
+Terms of Delivery	
+Buyer (if other than consignee)	
+1BRAHIM ALI & SONS	
+SHAKTI ROAD	
+BANKHEDI	
+STIN/UIN	23ABSPH7290L1Z3	
+State Name	Madhya Pradesh, Code: 23	
+Description of Goods	HSN/SAC Quantity Rate Per Disc. Amount	
+PVC	
+3917	36.00 N0S	83.04 NO533 %	2,003.00	
+170MM SWR BEND 87 5 DEG. APOLLO	
+PVC	2,045.00	
+3917	26.00 NOS	117.39 NOS 33 %	
+110MM SWR SINGLE TEE APOLLO	
+4,048.00	
+Freight & Cartage Exp. A/c	60.0O	
+OUTPUT CGST	370.00	
+OUTPUT SGST	370.00	
+Total	62.00 NOS	4,848.00	
+O.E	
+Amount Chargeable (in words)	
+INR Four Thousand Eight Hundred Forty Eight Only	
+HSN/SAC	Taxable Central Tax	State Tax	Total	
+Value Rate Amount Rate AmountTax Amount	
+3917	4,108.00 9%	37	99% 370.00 740.O0	
+Total 4,108.0O	0.00 370.00 740.00	
+Tax Amount (n words): INR Seven Hundred Forty Only	
+Company's Bank DetailS	
+Remark5	Bank Name	TDBI BANK	
+EX.CASH PAY.RATE MAX 15 DAYS PAY,cOND	Alc No.	0001102000051022	
+Company's PAN	AAUFM8721C	Branch & IFS Code: 90 NANDLALPURA SQUARE & BKLOO00529	
+for Mohammedamhhati &Co.	
+Declaration	
+We declare that this. invoice shows the actual price of the goods	
+described and that all particulars are true and correct.	
+Athorised Ory	
+This is a Computer Generated Invoice	

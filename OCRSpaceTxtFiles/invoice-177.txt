@@ -1,0 +1,54 @@
+Tax Invoice	
+84 SIYAGANJ	A.A.KHAMBATI & SONS	
+INDORE	Invoic No.	Date	
+GSTINUIN: 23AACFA286001ZD	6141 JK/18-19	Delivery Note	30-Mar-2019	Mode/Terms of Payment	
+State Name: Madhya Pradesh, Code 23	E-Mail : aakhambati@gmail.com	Supplier's Ref.	
+Other Reference(s)	
+Buyer	
+EBRAHIM & SONS	Buyer s Order No.	Dated	
+NEAR OF THANA	
+BANKHEDI	Despatch Document No.	Delivery Note Date	
+GSTIN/UIN	
+State Name	IMadhya Pradesh, Code 23	23ABSPH7290L1Z3	Desp.tched through	Destination	
+Ierm of Delivery	
+Contact	
+(07576)228469, 9926433252	
+SI	
+Description of Goods	HSN/SAC	
+uanitY	Rate	per DiSC. %	AmOunt	
+1 WIRE NETTING	
+73143900	
+GREEN"3"	2 RL	1,600.00 RL	3,200.00	
+WIRE NETTING	
+G/REEW4"	73143900	2 RL	1,800.00 RL	3,600.00	
+3 WELDED MESH	
+1/2X 16X4	314	4/.00 KGS	52.00 KGS	2,444.00	
+9,244.00	
+FRIEGHT ON SALES	
+74.00	
+C GST	
+838.62|	
+GST	
+838.62	
+Less.	ROUND UP	
+Bill Detaiis:	(0.24	
+New Ref 6141.K/18-19	10,995.00 Dr	
+Total	
+Amount Chargeable (in words)	rs 10,995.00	
+E.&O.E	
+INR Ten Thousand Nine Hundred Ninety Five Only	
+HSN/SAC	Taxable	Central Tax	
+State 1ax	otal	
+Value	Rate	Amount	Rate	
+3143900	Amount	Tax Amount	
+6,854.44	9%	
+314	616.90	9%	616.90	1,233.800	
+2,463.566	221.72	
+9%	221.72	443	44	
+Total	
+9,318.00	838.62	838.62	1,677.24	
+ax Amount (in words)	INR One Thousand Six Hundred Seventy Seven and Twenty Four paise Only	
+Company's Bank Details	
+Bank Name	:STATE BANK OF INDIA	
+Alc No.	:33313516674	
+Branch & ES od C .	

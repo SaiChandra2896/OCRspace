@@ -1,0 +1,45 @@
+Tax Invoice	(ORIGINAL FOR RECIPIENT)	
+Mohammed Khambhati & Co.	
+12, Maharani Road	invoice No.	Dated	
+Opp. Railwaystation	P/1013/19-20	29-Jul-2019	
+Indore	Delivery Note	
+Mode/T erms of Payment	
+GSTIN/UIN: 23AAUFM8721C227	
+State Name: Madhya Pradesh, Code23	Supplier's Ref.	Other Reference(s)	
+Consignee	MUSTAFA BOMBAY	
+Buyer's Order No.	Dated	
+IBRAHIM ALI & SONS	
+ASGERR	29-Jul-2019	
+SHAKTT ROAD	
+BANKHEDI	Despatch Document No. Dellvery Note Date	
+GSTIN/UIN	23ABSPH7290L123	
+State Name	Despatched thrOugn	Destination	
+IVadhya Pradesh, Code: 23	
+SHARTI ROAD TP	BANKHEDI	
+Terms of Delivery	
+Buyer (if other than consignee)	
+IBRAHIM ALI & SONS	
+SHAKTI ROAD	
+BANKHEDI	
+GSTIN/UIN	23ABSPH7290L123	
+State Name	Madhya Pradesh, Code: 23	
+Descriptian of Goods	HSN/SAC Quantity Rate per Disc 9%	Amount	
+PV	VC	3917	25.00 NOs	146.60 NOS	3,665.00	
+75MN SWR PIPE RING FIT25 KG 3MTR APOLLO	
+Freight & Cartage Exp. A/c GST	00	
+OUTPUT CGST	339.	
+OUTPUT SGST	339.0	
+Total	25.00 NOs	R4,443.00	
+E. & O.E	
+Amount Chargeable (in words)	
+INR FOur Thousand FOur Hundred Forty Three Only	State T	ax	Total	
+HSN/SAC	Taxable Central Tax	
+Value Rate Amount Rate Amount1ax Amount	
+,/b5.00	339.00 9% 339.00	3.00	
+3917	Total 3,765.0	339.00	339.00	678.00	
+Tax Amount (in words)	INR Six Hundred Seventy Eight Only	
+Company's Bank Details	
+EX.CASH Remdin PAY. RATE MAX 15 DAYS PAY.COND.	Branch & IFS Code: IBKLO000529 & 90 NANDLALPRASQUARE	No.	0001102000051022	
+Bank Name	:TDBI BANK	
+AAUFM8721C	
+Company's PAN	for Moham Dan Co.	

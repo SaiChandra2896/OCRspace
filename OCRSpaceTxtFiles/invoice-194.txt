@@ -1,0 +1,74 @@
+Brger/	
+ns lndia Limited	nvoice.Customer Order Details	(Refer Section 3111) and 31(2) of CGST Aet, 2017T)	nvoice	
+Office	
+nvoice No. :	075-	1-19/VB3R	Original Far Buyer i Recipient	
+voice	Despatch Delalls	
+A aataf00017	JuL-2019 02:54:48 PM	Despatch l0/ Date	25903574719-JUL-2019	Customar Address and Detalls	
+91-33-229779RR	ustomer P.0.	Ter erms ot Pay ment	075MAPo 40_1	Oer uodo	26	
+oCode:	279998	
+:yw.bsrgeinains.o	Order Type	ode of Transport	
+ABCH0976E	ternal Oder No.	O76 ORDER	Bill To Addrass	BRAHIM ALI& SONS	
+51434 WB1923PLC004793	eral Order	ranspotter Nane	Dum my 1rasporier	MAIN MARKET.NFAL	
+9-JuL-2019	No.	
+ate	ETATION DIST	
+merfee dback@bergerindia.com	CRMICImt Order	M ent Note	HOSHANGABAD BANRHEo1	
+onsignment Note	9-JUL-2019	Stale	Madhya Prades	
+Date	3STIN	23ABSPH7290L1 23	
+Sales Person	PAN	
+Bll From Location Address	Syed Azmat Hussaini	
+ship frem Location Address (if different from Bil	waybill 6	
+Contact No.	9826433252	
+From)	Shiprment Detalls	
+Gation Gode 075	ace o Suppiy: Madhya Pradesh	
+eation Code	O75	
+d ae Bopal	Ocation No	
+Bhopal	onsignee Name	
+ddress	BERGER PAINTSINDIALOcation Address	1BRAHIM ALI & SONS	Prepayment Details:	
+LTO KHA	PAINTS INDIA	
+111/1/1/2/5.LANDMARK	
+RESHUM	gnee Address MAIN ARKETNEAR POLIGE	Ah .Ge Docurnent No	
+111/1/1/2/5,LANDMARK-	navnge ocurment Date	
+HOTEL, PH NO 21, RI	SHUMRAO H	HOSHANGABAD.	
+NO 2,VILLAGE	RI NO 2,.VILLAGE AADAMPUR	
+AADAMPUR	CHAWNIIN,462021	
+CHAWNI, IN,462021	
+State	
+radesh	
+STIN	Stale	aahy a P	
+279c0 6E123	State	
+ontact h	3STIN	Contact No	23AABCB0976E1L3	GSTIN	
+bhopal@bergerindia.corm EmailIG	O7B69929587	oritack NG	23ABSPH1T280L123	
+Dnopai0ergennaia.comm	
+Prod uct Code: Description of Goods	aty	Rate	geckl	Val ue	SGST	
+HSN	
+UKg	Gross B99	Before te	
+Pack NOP	per	Payme Unt	and	Total	
+Unit	Value DiscountDsScOunt ner	Value	
+DIs COunt	AmountAmount	
+Tax	
+FO0r120991001000	
+WALMASTA PU BS-1L	3209	s0	
+137.00 4110.00	U.00	205.50	
+0.00 3904.50 18	351.40	35 1.40 4607.30	
+9 %	
+FOUr120991004000	
+WALMASTA PO BS--4 L	3209	
+4 00	521.00 10420.0	0.00	521.00	
+.00	9B99.00 18	890.91	890.91	11680.82	
+%	@9%	
+FO071209910200000	
+WALMASTA PO BS--20L	3209	20.00	0	2331.00 5993.00	D.00	
+349 85	0.00	G643.35	8	597.90 597.90	7839.15	
+@9 %	@9%	
+FOO7130991010000	
+BISON EML PO BS-.-10 L	3209	0.00	300	
+1007.00 30210.00	0.00	1510.50	u.00	
+28599.50	8	2582.95 2582.95 3385.40	
+FO07130991020000	
+BISON EML PO BS-.-20 L	3209	20.00 20	400	
+1895.0037900.00	0.00	1895.00	O.00	
+LT	SBO05.00 18	3240.453240.45 42485,90	
+@9%	9	
+TOTAL	870	89633 00	4481.65	.00	85151.3	10047 8.5	
+7663 61 7663.61	
+Page 1 of2	

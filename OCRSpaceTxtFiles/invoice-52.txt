@@ -1,0 +1,38 @@
+Tax Invoice	
+SAIFY HARDWARE STORES	
+(M) 94250 52514	99 RNT MARG CHHAVWNI CHOWK INDORE	ie voice No.	475	Dated	
+(M) 94253 15518	Dellvery Note	4-May-2019	
+State Name	GSTINIUIN: 23AHBPS5653H2ZA	Mode/Terms of Payment	
+Buyer	E-Mail: saifyhardwarestores@gmail.com	Madhya Pradesh, Code: 23	Supplier's Ref.	RAJAT HW	Other Reference(8)	
+IBRAHIM ALI & sONS	Buyers Order No.	Dated	
+BANKHEDI	
+State Name	Despatch Document No.	Dellivery Note Date	
+Madhya Pradesh, Code : 23	
+Despatched through	Destination	
+SHAKTI TRO	BANKHEDI	
+Terms of Delivery	
+Description of Goods	
+NO	HSN/SAC Quantity	Rate	per	Amount	
+1 PU FOAM 2nd	
+3921	2.00 KG	160.00 KG	320.00	
+CGST ON SALE	28.80	
+SGST ON SALE	28.80	
+ROUND OFF	
+0.40	
+Total	2.00 KG	378.00	
+Amount Chargeable (in words)	E. &O.E	
+Indian Rupees Three Hundred Seventy Eight Only	
+HSN/SAC	Taxable	Central Tax	State Tax	Total	
+Value	Rate Amount	Rate Amount	Tax Amount	
+3921	320.0	9%	3.80	9%	28.80	57.60	
+Total	320.00	28.80	28.80	57.60	
+ax Amount (in words)	Indian Rupees Fifty Seven and Sixty paise Only	
+Company's Bank Details	
+Bank Name	Central Bank of India	
+Alc No.	1580847661	
+Company's PAN	AHBPS5653H	Branch &IFS Code : CBINO281097	
+Declaration	for SAIFY HARDWARESTORES	
+We declare that this invoice shows the actual price of the	
+goods described and that al particulars are true and correct.	
+Authorised Fignatūry	
+This is a Computer Generated Invoice	

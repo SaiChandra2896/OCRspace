@@ -1,0 +1,44 @@
+TAX INVOICE	(DUPLICATE FOR TRANSPORTER)	
+Modern Pumps & PipesS	Invoice No.	Dated	
+12-B Maharani Road	
+INDORE	MPP/19-20/753	12-Jun-2019	
+GSTIN/UIN: 23ACVPK2580J1Z8	Dellvery Note	Mode/Terms of Payment	
+State Name: Madhya Pradesh, Code: 23	Supplier's Ref.	20 DAY'S	
+E-Mail pumpshouse@gmail.com	Other Reference(S)	
+Buyer	ALIRAJPUR	
+Despatch Document No.	Delivery Note Date	
+IBRAHIM ALI AND SONS - BANKHEDI	
+MANI ROAD	
+GSTINIUIN	Despatched through	Destination	
+23ABSPH7290L1Z3	
+State Name	Madhya Pradesh, Code: 23	SHREE MAHARAJ T.P	BANKHEDI	
+erms of Delivery	
+Contact	9009003252	
+SI	Description of Goods	HSN/SAC GST Quantity	Rate	Amount	
+No.	per Disc. %	
+Rate	
+HDPE PIPES	3917	18 % 62.000 kg.	75.00 kg. 1525	3,940.88	
+FRIEGHT	75.00	
+CGST	361.43	
+SGST	361.43	
+ROUND OFF	0.26	
+am	
+Total	62.000 kg	T 4,739.00	
+Amount Chargeable (in words)	E. & O.E	
+Rupees Four Thousand Seven Hundred Thirty Nine Only	
+HSN/SAC	Taxable	Central Tax	State Tax	Total	
+Value	Kate Amount Rate Amount Tax Amount	
+3917	4,015.88	9%	361.43|	9%	361.4 43	2.86	
+Total 4,015.88	361.43	361.43	722.86|	
+Tax Amount (in woras)	Rupees Seven Hundred Twenty Two and Eighty Six paise Only	
+fa7i c77 t-TH p NEFT	
+Company's Bank Details	
+Bank Name	HDFC BANK	
+Alc No.	50200028049918	
+Branch & IFS Code: SIYAGANJ & HDFCO003855	
+Declaration	for Modern PympsBIpes	
+We declare that this invoice shows the actual price of the	
+goods described and that all particulars are true and	
+Correct.	Authofisedgnatoly	
+sUBJECT TO INDORE JURISDICTION	
+This is a Computer Generated Invoice	

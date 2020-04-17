@@ -1,0 +1,51 @@
+TAX INVOICE	
+Modern umps & Pipes	12-B Ma	(DUPLICATE FOR TRANSPORTER)	
+INDOR hi Road	Invoice No. 2	
+GSTIN/UIN: 23ACVPK2580J1Z8	MPP/O.19/4	Delivery Note	Dated	2-Apr-2019	
+E-Mail pumpshouse@gmall.com	tate Name: Madhya Pradesh, Code: 23	ModelTerms of Payment	
+Buyer	Supplier's Ref	25 DAY'S	
+MANI ROAD	BRAHIM ALI AND SONS - BANKHEDI	Despatch Document No.	Other Reference(s)	ALIRAJPUR	Delivery Note Date	
+GSTINIUIN	23ABSPH7290L1Z3	
+State Name	Despatched through	Destination	
+Madhya Pradesh, Code: 23	KHANUJA T.P.	
+Contact	Terms of Delivery	BANKHEDI	
+9009003252	
+S	
+Desciption of Goods	
+NO.	
+HSN/SAC GSTQuantity	Rate	
+1PVC PIPES	Rate	perDISC. %	mount	
+2 PVC PIPES	3917	
+18 %|67.800 kg.	
+PVC PIPES	3917	93.00 kg. 15.25 %	5,343.83	
+18 % 118.300 kg.	
+3917	90.00 kg. 15.25 %	9,023.33	
+18 % 49.300 kg.	115.00 kg. 15.25 %	4,804.900	
+FRIEGHT	19,172.06	
+CGST|	220.00	
+SGST	1,745.28	
+ROUND OFF	1,745.28	
+0.38	
+Total	
+235.400 kg.	
+Amount Chargeable (in words)	22,883.00	
+Rupees Twenty Two Thousand Eight Hundred Eighty Three Only	E. & OE	
+HSN/SACC	
+Taxable	Central Tax	State TaX	
+Value	Total	
+3917	Rate Amount	Rate	Amoun	
+19,392.06	9% 1,745.28 9%	Tax Amount	
+Total 19,392.06	1,745.28 3.490.56	
+1,745.28	1,745.28	3,490.56	
+Tax Amount (in words)	Rupees Three Thousand Four Hundred Ninety and Fifty Six paise Only	
+fa Hre e5 INEFT	
+Company's Bank Details	
+Bank Name	HDFC BANK	
+Alc No.	
+50200028049918	
+Declaration	Branch & IFS Code: SIYAGANJ & HDFC0003855	
+We declare that this invoice shows the actual price of the	for Modern Paps PeS	
+goods described and that all particulars are true and	
+Correct.	
+SUBJECT TO INDORE JURISDICTION	AUERGrisedgnatd	
+This is a Computer Generated Invoice	

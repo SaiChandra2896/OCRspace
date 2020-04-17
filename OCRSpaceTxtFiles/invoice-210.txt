@@ -1,0 +1,43 @@
+GST INVOICE Voucher(Page 5)	
+GURUNANAK PUSTAK BHANDAR,PIPARIYA 18-19 (Sales) Invoice No.	ABDULLA MARKET ,PIPARIYA	Dated	
+GSTIN/UIN: 23AATPC6283C1ZT	GPB/CR/1920/0272	
+State Name: Madhya Pradesh, Code: 23	Suppller's Ref.	12-Jul-2019	Other Reference(s)	
+Contact:07576-22512, Aman 9883285 ilT Pramod.8959219680. Rajesh 9179921879	Fax: Ur576-222512	15/85	
+Buyer	
+brahim & Sons Bankhedi	
+Bankhedi	
+GSTIN/UIN	23ABSPH7290L1z3	
+State Name	
+Madhya Pradesh, Code: 23	
+SI	Description of	
+No.	Goods	HSN/SAC GST	Quantity	
+R ale	perDiSC. %	Amount	
+Rate	
+Fevicol Mr 8gm	
+2 Feivcol 50 Gm Sq	3506	18 %	no	3.39	no	169.5	
+3506	8	
+3 Fivekwik .05	40	no	14.41 no	
+3506	18 %	576.40	
+Bulbond 1kg	2	no	262.71 no	
+3506	18 %	525.42	
+20	no	78.41 no	1,568.20	
+2,839.52	
+CGST	
+SGST	255.5	
+Rount Off	255.57	
+0.34	
+Total	112 no	
+7 3,351.00	
+Amount Chargeable (in words)	
+E. & O.E	
+dlan Rupees Three Thousand Three Hundred Fifty One Only	
+HSN/SAC	Taxable	Central lax	State Tax	
+Total	
+Value	Rate	Amount	Rate	Amount	Tax Amount	
+3506	2,839.52	
+Total	255.57 9%	255.57	511.14	
+2,839.52	255.57	255.57	511.14	
+lax Amount (in words) : Indian Rupees Five Hundred Eleven and Fourteen paise Only	
+for GURUNANAK PUSTAK BHANDAR,PIPARIYA 18-19 (Sales)	
+Authorised Signatory	
+This is a Compute: Generated Invoice	

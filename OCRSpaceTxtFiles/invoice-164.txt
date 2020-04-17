@@ -1,0 +1,37 @@
+Tax Invoice	(DUPLICATE FOR TRANSPORTER)	
+Unique Enterprises	Invoice No	Dated	
+27/1,1s Navlakha, Indoree	1235	
+GSTIN/UIN: 23BBAPR8559R1ZS	Delivery Note	21-Feb-2019	Mode/Terms of Payment	
+Slate Name: Madhya Pradesh, Code. 23	CASH	
+E-Mail mufaddal.ratawala@gmail.com	Buyer's Order No.	Dated	
+Buyer	
+Despatch Document No.	Delivery Note Date	
+lbrahim Ali & Sons Bankheri	1235	
+Bankheri	
+Despatched through	Destination	
+State Name	Madhya Pradesh, Code 23	
+BANKHERI	
+Place of Supply	Madhya Pradesh	Terms of Delivery	
+Description of	HSN/SACQuantity	Rate perDisc. %	Amount	
+Goods	
+GARDEN PIPE 3/4"	100.000 kgs	21.00 kgs	2,100.00	
+CGST	189.0	
+SGST	189.0	
+Total	100.000 kgs	F 2,478.00	
+E. & O.E	
+Amount Chargeable (in words)	
+INR Two Thousand Four Hundred Seventy Eight Only	
+HSN/SACC	Taxable	Central Tax	State Tax Total	
+Value	Rate Amount	Rate Amount ax Amount	
+2,100.00	9%	189.00	9%	189 00	378.0	
+Tota!	2,100.00	189.00	189 ,00	378.0	
+Tax Amount (in words)	INR Three Hundred Seventy Eight Onlyy	
+Company's Bank Details	
+Bank Name	IDBI Bank Alc	
+Alc No.	1321102000004251	
+Branch & IFS Code: IDBI Bank Ltd,Kal pana, Ring & 1BKL0001321	
+for Unicque Enterprises	
+Customers Seal and Signatiure	
+Authorised Signatory	
+SUBJECT TO INDORE JURISDICTION	
+This is a Computer Generated Invoice	

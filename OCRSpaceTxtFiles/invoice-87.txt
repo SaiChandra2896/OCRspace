@@ -1,0 +1,39 @@
+Tax Invoice	
+Unique Enterprises	In voice No	
+2711,Ts Navlakha, Indore	Daled	
+GSTIN/UIN 23BBAPR8559R1ZS	Delivery Note	6-Apr-2019	
+Slate Name: Madhya Pradesh. Code: 23	Mode/Terms of Payment	
+E-Mail: mufaddal.ratawala@gmail.com	
+Supplier's Ref.	Other Reference()	
+Buyer	
+Buyer's Order No.	Dated	
+Ibrahim Ali & Sons Bankheri	
+Bankheri	
+PAN/IT No	Despatch Document No.	Delivery Note Date	
+State Name	Madhya Pradesh, Code 23	
+Place of Supply	Madhya Pradesh	Despatched through	Destination	
+Terms of Delivery	
+Description of	
+HSNISAC Quantityy	Rate	per Dise. %	Amount	
+Goods	
+UPVC ELGOW 1"	3017	500.00	
+50.00 Pos	10.00Pcs	
+CGST	45.00	
+SGST	45 .00	
+Total	50.00 PcGs	590.00	
+Amount Chargeable (in words)	E. & O.E	
+INR Five Hundred Ninety Only	
+HSN/SAC	Taxable	Central Tax	State Tax	Total	
+Value	Rate	Amount	Rate Amount Tax Amount	
+3917	500.00	45.00 9%	45.00	90.00	
+Total	500.00	45.00	45.00	
+90.00	
+Tax Amount (in words)	INR Ninety Only	
+Company's PAN	BBAPR8559R	
+Company's Bank Details	
+Bank Name	IDBI Bank Alc	
+Alc No.	1321102000004251	
+Branch & IFS Code: IDBI Bank Ltd, Kalpana,Ring & 1BKL0001321	
+Customer's Seal and Signature	
+for Unique Enterprises	
+Authorised Signatory	

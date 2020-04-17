@@ -1,0 +1,67 @@
+Tax Invoice	
+Mohammed Khambhati & Co.	(DUPLICATE FOR TRANSPORTER)	
+12, N	
+<, vlanarani Road	
+phailwaystation	Invoice No.	Dated	
+cSTIA	P/1017/19-20	
+29-Jul-2019	
+GSTIN/UIN: 23AAUFM8721C227	Delivery Note	
+Mode/Terms of Payment	
+State Name Madhya Pradesh, Code : 23	
+Consignee	Supplier's Ref.	Other Reference(s)	
+TAFA VMANPUR	
+TBRAHIM ALI & SONS	Buyers Order No.	Dated	
+SHAKTt ROAD	SFDN	
+BANRHEDI	29-Jul-2019	
+GSTIN/UIN	Despatch Document No.	Delivery Note Date	
+23ABSSPH7290L 1233	
+State Name	
+vladny esh Code: 23	Despatched through	Destination	
+SHAKTT ROAD TP	BANKHEDI	
+Terms ot Delivery	
+Buyer (It other than consignee)	
+IBRAHIM ALI & SONS5	
+SHARTT ROAD	
+BANKHEDI	
+GSTIN/UIN	23ABSPH729OL1Z3	
+State Name	
+Madhya Pradesh, Code 23	
+Description of Goods	
+HSN/SAC Quantity Rate per Disc. % Amount	
+PVC	
+110MM SWR BEND 87. 5DEG. APOLLO0	36.00 NOS	83.04 NOS 33 %	
+2	PVC	2,003.00	
+110MM SWR SINGLE TEE APOLLO	3917	
+26.00 NOSS	117.39 NOS 33 %	2,045.0o	
+3PVC	
+110X 75M SWR REDUCER COUPLER APOLLO	3917	50.00 NOS	
+4	61.85 NOS 33 %	2,072.00	
+PVC	
+110X 75MM SWR REDUCER TEE APOLLO	3917	30.00 NOs	
+PVC	100.85 NOS 33	2,027.00	
+/SMAM SVWR VENT COWL APOLLO	3917	50.00 NOS	
+12.72 NOs 33 %	426.0	
+Freight & Cartage Exp. Alc GST	8,573.00	
+OUTPUT CGSTT	120. 00	
+OUTPUT SGST	782.00	
+782.00	
+Otal	192.00 NOS	
+Amount Chargeable (in words)	10,257.00	
+INR Ten Thousand Two Hundred Fifty Seven Onlyy	E. & O.E	
+HSN/SAC	
+Taxable	Central Tax	State T ax	Total	
+917	Value	
+Rate AmOunt Rate Amount ax Amount	
+8,693.00	9% 782.00 9% 782.00 1,554.00D	
+Total 8,693.00	
+r82. .00	782.00 1,564.00	
+ax Amount (in words): INR One Thousand Five Hundred Sixty Four Only	
+marks	Company's Bank Details	
+.CASH PAY.RATE MAX 15 DAYS PAY.COND.	Bank.Name	DBI BANK	
+Alc No.	0001102000051022	
+mpany'S PAN	AAUFMB8721C	
+laration	Branch & IFS Code: IBKL0000529 & 90 NANDLALPURA SQUARE	
+declare that this invoice shows the actual price of the goodss	for Mohammed/Khajnbhati & Cos	
+Cribed and that all particulars are true and correct.	
+AUUnorisedanetory	
+This is a Computer Generated Invoice	

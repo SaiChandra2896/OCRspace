@@ -1,0 +1,46 @@
+Tax Invoice	
+CHAIN HOUSE	
+4/1, Siyaganj,lNDORE	
+GODOWN :340/1/1,TIGRIYA BADSHAH,AGARBATII COMPLEX,SANWER ROAD, INDORE (M.P.)	GSTIN/UIN: 23AAHFC7476R1ZO	
+Custommer	State Name : Madhya Pradesh, Code : 23	
+E-Mail : talibengineeringwala@gmail.com	
+BANKHEDI	TBRAHIM AND SONS BANKHEDI	Imvolce No.	Date	005724/2019-20	
+GSTIN/UIN	Despatch through	2-Nov-2019	
+State Name	23ABSPH729OL1Z3	erms Ot payment	MAHARAJA	
+Madhya Pradesh, Code:23	CREDIT	
+SI	
+Description of Goods	HSN/SAC GST	
+INO.	Quantity	Rate	per	
+Amount	
+Rate	
+Roofing Nails	
+ri	2 GAJAN PIN (NAG)	7317	7308	18 % 20.000 Kgs.	43.00 Kgs.	860.0	
+18 % 110 Nag	17.50 Nag	1,925.00	
+2,785.00	
+C GST	
+250.65	
+GST	
+Less	
+ROUND OFF	250.65	
+J0.30	
+Total	3,286.00	
+Amount Chargeable (in words)	E. &O.E	
+Indian Rupees Three Thousand Two Hundred Eighty Six Only	
+laxable	Central Tax	State Tax	Total	
+Value	Rate	Amoun	Rate	Amount	ax Amount	
+2,	785.0	9 %	250.65	9%	250.	501.3 30	
+2,785.00	250.65	250.65	501.30	
+Total:	
+Tax Amount (in words)	Indian Rupees Five Hundred One and Thirty paise Only	
+Prev.Balance	42,115.00 Cr	Company's Bank Details	
+1 Bank Name	HDFC BANK	
+Bill Amt.	3,286.00 Dr	
+Ac No.	02818020001692	
+Net Balance	38,829.00 Cr	
+Branch & IFS Code: Cloth Market Indore & HDFcO000281	
+2) Bank Name	SBI BANKK	
+Alc No	35406916387	
+Branch & IFS Code : Siyaganj Indore & SNggy	
+hot oHAINHODSE	
+Declaration	
+We declare that this invoice shows the actual price of the	ia nt nl narticIlars are true and coTTecl.	

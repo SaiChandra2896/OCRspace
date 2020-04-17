@@ -1,0 +1,43 @@
+Tax Invoice	
+INDORE aP	FATEHCHAND AMARDAS & BROTHERS	
+1- 5 M.P	Invoice No.	
+Stat N/UIN 26	Dated	
+E-Ma Madhva Ms858R1Z	1389	
+Buyer	aindorecè mail.eom	adesh, Code: 23	Dellvery Note Mode/Terms of Payment	28-Jun-2019	
+IBRAHIM ALI AND SONS	CASH	
+VANKHEDI	Supplier's Ref. Other Reference(s)	
+State Name: Madhya Pradesh, Code : 23	Buyer's Order No Dated	
+Despatch Documers No. Delivery Note Date	
+Despatched through Destination	
+KHANUJA ROADLINESVANKHEDI	
+Terms of Delivery	
+Desciption of	
+Goods	HSN/SAC Quantity	
+Rate	
+per	Amount	
+1 CERAMIC JAR 12 POUND IV	2 CERAMIC JAR 14 POUND	69120020 2.00 BDL	
+69120020 2.0 BDL 504.00 BDL	432.00 BDL	1,008.00	864.00	
+1,872.00	
+Cgst	
+Sgst	112.30	
+Round Off	112.30	
+0.40	
+Total	
+4.00 BDL	
+Amount Chargeable (in words)	2,097.00	
+E.	&0.E	
+R Two Thousand Ninety Seven Only	
+HSN/SAC	
+Taxable Central Tax	State Tax	Total	
+Value	
+69120020	1,872.00 6%	Rate Amount Rate Amount Tax Amount	112.30 6%	
+2.3	224.6O	
+Total 1,872.00	112.30	112.30	
+224.60	
+Tax Amount (in words)	
+INR Two Hundred Twenty Four and Sixty paise Only	
+We declare that this invoice shows the	Declaration	for FATEHCHAND AMARDAS & BROTHERS	
+actual price of the goods described and that	
+all particulars are true and correct.	
+Authorised Signatory	
+This is a Computer Generated Invoice	

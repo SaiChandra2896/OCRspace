@@ -1,0 +1,61 @@
+Riohammed Khambhati & Co.	Opn rani Road	12,	Ma	Tax Invoice	(DUPLICATE FOR TRANSPORTER)	
+Opp. bRailwaystation	Invoice No.	
+Dated	
+ndore	P/O24719-20	
+30-Apr-2019	
+GSTIN/UIN: 23AAUFM8721 C2Z	Delivery Note	
+tete Name: Madhya Pradesh, Code: 23	Supplier's Ref.	ModelTerms of Payment	Other Reference (s)	
+Consignee	
+IBRAHIM ALI & SONS	MUSTAFA BOMBAY	
+Buyer's Order No.	Dated	
+SHAKTI ROAD	SFDN	30-Apr-2019	
+NKHED	GSTIN/UIN	Despatch Document No.	Dellvery Note Date	
+State Name	23ABSPH729OL123	
+Madhya Pradesh, Code:23	Despatched through	Destination	
+MAHARAJ LOGIST	BANKHEDI	
+Terms of Delivey	
+Buyer (if other than consignee)	
+BRAHIM ALI & SONS	
+SHAKTI ROAD	
+BANKHEDI	
+GSTIN/UIN	23ABSPH729OL1Z3	
+State Name	
+Madhya Pradesh, Code : 23	
+Description of Goods	
+HSN/SAC Quantity	Rate per Disc. %	Amount	
+TPVC	
+110MM SWR BEND 87.5 DEG. APOLLO	3917	36.00 NOS	83.04 NOs 33 %	2,003.00	
+2	PVC	
+110MM SWR SINGLE TEE APOLLO	3917	26.00 NOS	106.77 NOS 33 %	1,860.00	
+3 PVC	
+110 X 75MM SWR REDUCER COUPLER APOLLO	3917	17.00 NOS	61.90 NOS 33 %	705.00	
+4 PVC	
+110MM SWR JALI ROUND APOLLO	3917	100.00 NOS	21.19 NOS 33 %	1,420.00	
+5	PVC	
+1/2" UPVC ELBO APOLLO	3917	200.00 NOS	6.19 N0S 28 %	891.00	
+6 PVC	
+7"UPVC ELBOWAPOLLO	3917	50.00 NOS	15.25 NOS 28 %	549.00	
+PVC	
+3917	24.00 NOS	73.78 NOS 28 %	
+1X1/2" UPVC TEE BRASS APOLLO	1,275.00	
+8,703.00	
+Freight & Cartage Exp. A/c	
+90.00	
+OUTPUT CGST	
+791.00	
+OUTPUT SGST	
+791.00	
+Total	453.00 NOS	R 10,375.00	
+unt Chargeable (in words)	
+E. & O.E	
+Ten Thousand Three Hundred Seventy Five Only	
+HSN/SAC	Taxable	Central Tax	State Tax	Total	
+Value	Rate	Amount	Rate Amount Tax Amount	
+8,793.00	9%	791. 00	9%	791.00 1,582.00	
+Total	8,793.00	791. .00	791.00 1,582.00	
+mount (in words)	INR One Thousand Five Hundred Eighty Two Onlyy	
+SH S PAY.RATE MAX 15 DAYS PAY.COND	Company's Bank Details	Bank Name	IDBI BANK	
+A	c	No.	0001102000051022	
+any's PAN	AAUFM8721C	
+ion	Branch & IFS Code: 90 NANDLALPURA SQUARE & IBKL0000529	
+are that this invoice shovwws the artual nrins ns #ha	for Mohammed Khambhati & Co.	

@@ -1,0 +1,60 @@
+Hala,s.D.A. C	la,S. D.A. Comp	
+INDIGO	GSTIN	Invoice No	
+ce Date	
+TAX INVoICE (CASH)	
+A.R ENTERPRISES	(DUPLICATE FOR TRANSPORTER)	ery No	
+Staid R iN	Invoice No	
+act: 07-3 Madh	Dated	
+Ap	O96L	389C	
+s52.91eso	Code	29-Jun-2019	
+Buyer	soos3cam	S2	Delivery Note	Mode/l erms ol Payment	
+EBRAHIM & SONS.	BANKHEDI.	Suppliers Ref.Other Reference(s)	porter Mal	
+State Name Madhya Pradesh, Gode 23	GSTINIUIN: 23ABSPH7290L1Z3	Buyer's Order No. Dated	IL	ges	50	
+tS	3	
+Despatch Document No Delivery Note Date	
+S	
+Despatched through Destination	Details:	
+int Name	
+Teims of Delivery	
+wtie	
+Description of Goods	
+|HSN/SAC Quantity	Rate	per	Amount	
+1 G.I WIRE 18G.	
+2 G.I VWIRE 20G.	312	25.00 Kg	
+312	55.09 Kg	1,377.25	
+30.00 Kg	
+57.20 Kg	1,716.00	CGST	
+3.093.25	Amount	
+CGST	
+Less .	SGST	278.39	02.	
+R/F	278.39	
+79.20	
+(-)0.03	
+182.07	
+Total	
+55.00 Kg	
+Dmount Chargeable (in words)	3,650.00	
+E. & O.E	
+R Three Thousand Six Hundred Fifty Only	
+HSN/SAC	Taxable	Central Tax	
+State ax	
+Value	Total	
+Rate Amount| Rate Amount ax Amount	
+7312.	1,377.25	9%	123.95	9%	123.95	
+312	1,716.00	9% 154.44 9%|	247.9O	
+154.44	308.88	
+Total 3,093.25	
+278.399	278.39	556.78	
+INR Five Hundred Fifty Six and Seventy Eight paise Only	
+ax Amount (in words)	
+Company's Bank Details	
+Bank Name: Bank of India	
+Alc No. 886320110000247	
+Branch & IFS Code: LABRIYA BHERU DHAR ROAD & BKIDOO08863	
+Claration	
+e declare that this invoice shows the actual	for A.R ENTERPRSES	
+e of the goods described and that al particulars are true and correct.	
+EN	
+AUthorised Sighatory	
+SUBJECT TO INDORE JURISDICTION	
+This is a Computer Generated Invoicee	

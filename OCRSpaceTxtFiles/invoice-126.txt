@@ -1,0 +1,59 @@
+MiOdeTerms of	
+te Name: Madhya Pradesh, Code : 23	20 DAYs	
+Supplier's Ref.	Other Referend	
+PUR	
+TAX INVOICE (CASH)	
+(DUPLICATE FOR TRANSPORTER)	Note	
+A.R ENTERPRISES	
+Invoice No	Dated	
+407c	On	
+2-Jul-2019	
+Ontact o731-a9ops A ce23	Delivery Note	ModelTerms of Payment	EDI	
+ren torsOOS 9hat	
+Jyer	
+EBRAHIM & SONS.	Supplier's Ref.	Other Reference(s)	
+BANKHEDI.	
+GSTIN/UIN: 23ABSPH7290L1Z3	Buyer's Order No. Dated	
+State Name: Madhya Pradesh, Code 23	Despatch Document No. Delivery Note Date	
+Despatched through Destination	
+%	
+Terms of Delivery	
+Description of Go0ds	HSN/SAC . Cuantity	
+Rate	per	Amount	
+1 WIRE NAILS5.	
+2 Roofing Nails	7317	7317	25.00 Kg	46.66Kg	1,166.50	
+3 Wire Nails 1 1/2* 14.	7317	25.00 Kg	50.00 Kg	1,250.0po	
+4JBOLT.	15.00 Kg	48.00 Kg	720.00O	
+7318	10.00 Kg	52.00 Kg	
+520.00	
+3.656.500	
+CGST	
+329.09	
+SGST	
+329.099	
+R/F	
+0.32	
+Total	75.00 Kg	
+4,315.00	
+Amount Chargeable (in words)	
+E. &O.E	
+R Four Thousand Three Hundred Fifteen Only	
+HSN/SAC	Taxable	Central Tax	
+State Tax	Total	
+Value	Rate	Amount	Rate	Amount Tax Amount	
+7317	3,136:50	9%	282.29	9%	282.29	564.58	
+7318	
+520.0O	9%	46.80	46.80	93.60	
+Total 3,656.50	329.09	329.09 658.18	
+Tax Amount (in words)	INR Six Hundred Fifty Eight and Eighteen paise Only	
+Company's Bank Details	
+Bank Name: Bank of India	
+Alc No. 886320110000247	
+Branch & IFS Code: LABRIYA BHERU DHAR ROAD &BKIDO008863	
+Declaration	
+for A R ENTERPRISES	
+VVe declare that this invoice shows the actual	
+price of the goods described and that all particulars are true and correct.	
+Authorised ignatory	
+SUBJECT TO INDORE JURISDICTION	
+This is a Computer Generated Invoice	

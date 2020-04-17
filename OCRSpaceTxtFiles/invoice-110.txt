@@ -1,0 +1,53 @@
+Tax Invoice	(ORIGINAL FOR RECIPIENT)	
+Alpha lron & Steel	Dated	
+12/1 Maharani Road	Invoice No.	30-Mar-2019	
+INDORE	ALPHA/1417/18-19	
+Delivey Note	Made/Terms of Payment	
+GSIN/UIN: 23BEXPK2733N3ZW	
+eName: Madhya Pradesh, Gode 23	Supplier's Ref.	Other Referencel	
+-IVlail burhan@khambatigroup.com	
+Consignee	FDN	
+Buyers Order No.	Dated	
+1BRAHIM ALI & SONS	SFDN	30-Mar-2019	
+BANKHEDI	
+Despatch Document No. Delivery Note Date	
+GSTIN/UIN	23ABSPH7290L123	
+PAN/ITT No	
+Destination	
+State Name	Madhya Pradesh, Code: 23	Despatched through	
+SHRIMAHARAJ TP BANKHEDI	
+Terms ot Delivery	
+Buyer (if other than consignee)	
+BRAHIM ALI & SONS	
+BANKHEDI	
+GSTIN/UIN	23ABSPH7290L1z3	
+PANIT No	
+State Name	Madhya Pradesh, Code : 23	
+S	Descnption of GoOds	HSN/SAC uantity	Rate per Disc 9% Amount	
+7210	375.00 KGS	66.53 KGS	24,949.00	
+1 PROFILE SHEET Kg.	
+PROFILE SHEET 10X 4 FNT	
+225.00	
+FREIGHT and CARTA GE	2,266.0o	
+OUTPUT CGST	2,266.0o	
+OUTPUT SGST	
+Totan	375.00 KGS	29,706.00	E. & O. E	
+Amount Chargeable (in word s)	Total	
+INR Twenty Nine Thousand Seven Hundred Six Only	Taxable	Rate Amount Rate Amount ax Amount	Central lax	State Tax	
+25.174.00 9% 2,266.00	9%2,266.004,532.00	
+HSN/SAC	Value	
+2,266.00O	2,266.00 4.532.00	
+7210	Total 25,174.00	
+INR Four Thousand Five Hundred Thirty Two Only	
+ax Amount (in words)	
+Company's Bank Details	THE JAMMU AND KASHMIR BANKLD. : INDORE	
+Bank Name	
+0295010100002120	
+EX LESS C.D. 500/TON MAX 7DAYS PAY.COND.	Branch & IFS Code: DIAMOND TRADE CENJ	AlphaU	
+RemarkS	Alc No.	RE	
+BEXPK2733N	
+Company's PAN	
+FlINDORE	
+Declaration	VWe declare that this invoice shows the actual price of the	
+goods described and hat all pariculars are true and correct.	Authorise	
+This is a Computer Generated invoICe	

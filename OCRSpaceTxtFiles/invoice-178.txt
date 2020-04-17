@@ -1,0 +1,42 @@
+Tax iivoice	(ORIOINA FOR RECIPIENT)	
+AA.KHAMBATI & SON6	Invoice No.	Dated	
+84. SIYAGANJ	
+INBORE	5861JK/18-19	11-Mar-2019	
+SSTIN/UIN: 23AACFA2860Q12D	Delivery Note	Mode/Teitns of Payment	
+State	
+Name Madhrya Pradesh, Code: 23	Supplier's Ref.	Other Reterence(s)	
+-iailaakhambati@gmall.con	
+-Buyer	BUyersS Order No.	Dated	
+EBRAHIM & SONS	
+NEAR.OF THANA	Despatch Document.0	Delvery ote Date	
+BANKHEDI	
+GSTIN/UIN	
+23ABSPH7290L 123	Despatched through	Destination	
+State Namé-	Madhya Pradesh, Code 23	
+Terms of Delivery	
+Ontact	(D5/6)228469, 9926433252	
+Snpuon of G0ods	HSN/SAC Quantity	Rate	per Disc. %	Amount	
+NAL	7317	250.00 KGS	52.00 KGS	13,000.00	
+:1X14=1BAG	
+2X12=2BAG	
+2X10=1BAG	
+2.5X10=1BAG .	
+FRIEGHT ON SALES	i02.00	
+C GST	1,179.18	
+S	GST	1,179.18	
+Less.	ROUND UP	.36	
+Bill Details:	
+New Ref 56188-10,	15,466.00 Dr	
+rs 15,460.00	
+Total	250.00 KGS	
+Amount Chargeable (in words)	E. & O.E	
+INR Fifteen Thousand Four Hundred Sixty Only	
+HSN/SAC	Taxable	Central Tax	State Tax	otal	
+Value	Rate	Amount	Rate Amount aX Amount	
+317	13,102.00	9%	1,179.18	9%	1,179.18	2,358.36	
+Total 13,102.00	1,179.18	1,179.18	2,358.36	
+ax Ainount (un words)NR Two Thousand Three Hundred Fifty Eight and Thirty Six paise Only	
+Company's Bank Details	
+Bank Name	:STATE BANK OF INDIA	
+Alc No.	33313516674	
+Pronch Odo '	

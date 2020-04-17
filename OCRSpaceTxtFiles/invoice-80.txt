@@ -1,0 +1,74 @@
+Tax Invoice	
+NEELAM ENTERPRISES	BHARTI HOTEL SHOPPING COMPLEXX	JPLICATE FOR TRANSPOORT	RTER)	
+B MANDl RO PINGC	na h:- Prashant SHOPAL	Invoice No.	
+M.P Nans. Ower 18 B	SSTINgar Zone il R	4127	Dated	
+St NrUIN: 23AALEN a	Delivery Note	11-Apr-2019	
+CnName Madhv K12I	
+E-Ma 98272 96426 sh, Code: 23	BY NAVNEET JI	Mode/Terms of Payment	
+EMail: neelamenterprises91109mail.com	Supplier's Ref.	
+Consignee	
+4127	Other Reference(S)	
+IBRAHIM ALI & SONS-BANKHEDI	Buyer's Order No.	
+Dated	
+State Name	GSTI TIN/UIN	: Madhya Pradesh, Code :23	23ABSPH7290L 1Z3	Despatch Document No. Delivery Note Date	
+Despatched through	Destination	11-Apr-2019	
+Buyer if other than consignee)	
+BRAHIM ALI & SONS-BANKHEDI	Terms of Delivery	
+GSTIN/UIN	
+State Name	23ABSPH7290L1Z3	
+Place of Supply: Madhya Pradesh	Madhya Pradesh, Code:23	
+SI	
+No.	Description of Goods	
+HSN/SAC GST Quantity	Rate	per DiSc. %	
+1 CPVC MAPT (PVC) 1"(P/70)	3917	
+Rate	Amount	
+3 CPVC RED. TEE 1-1/4 "X1"(P/20)	2 CPVC RED. COUPLER 1-1/4"X1 "(PI50) 39177	18 % 70.00 NOS.	18 % 50.00 NOS.	23.50 NOS. 53.38 %	766.90	
+4 CPVC RED. TEE 1"X3/4"(PI40)	3917	56.50 NOS. 53.38 %	1,317.02	
+18 %| 20.00 NOS.	
+3917	98.00 NOS. 53.38 %	
+5 CPC RED. TEE 1-1/4"X3/4"(P/20)	8 % 40.00 NOS.	913.75	
+7 CPVC LONG PLUG 1/2"(P/100)	6 CPVC BRASS ELBOW 3/4"X1/2" (P/20) 3917	18 % 20.00 NOS.	18 % 20.00 NOS.	105.00 NOS. 53.38%	979.02	
+3917	49.60 NOS. 53.38 %	924.94	
+53.00 NOS. 53.38 %	
+3917	494. .17	
+8 UPVC ELBOW 1"(PI30)	18 % 100.00 NOS.	6.20 NOS. 53.38 %	
+39 17	04	
+9 UPVC ELBOW 1/2"(PI100)	18 % 60.00 NOS,	
+3917	21.70 NOS. 50.84 %	640.06	
+10 UPVC SOCKET 1"	18 % 100.00 NOS.	8.80 NOS. 50.84 %	
+3917	432.6	
+11 UPVC SOCKET 1/2"	18 % 100.00 NOS.	
+3917	15.70 NOS. 50.84 %	771. .81	
+12 UPVC RED ELBOW 3/4X1/2	18 % 100.00 NOS.	
+3917	6.30 NOS. 50.84%	309.71	
+13 UPVC BRASS MABT 1/2X1/2"(P/30)	18 %|25.00 NOS.	23.40 NOS. 49.15 %	
+3917	47	
+14 UPVC BRASS MABT 1"(PI10)	18 % 30.00 NOS.	
+3917	64.50 NOS. 50.84 %	951.25	
+18 % 30.00 NOS.	136.50 NOS. 50.84 %	
+15 UPVC BRASS FABT 1"(P/10)	3917	2,013.10	
+18 % 30.00 NOS.	99.75 NOS. 50.84 %	
+16 UPVC TANK NIPPLE 1/2"(PI20)	3917	18 % 36.00 NOS.	1,471.11	
+19.25 NOS. 50.84 %	
+17 UPVC BALL VALVE 1/2"	8481	340.68	
+18 % 6.00 NOS.	58.00 NOS. 50.84 %	
+18 UPVC BALL VALVE 1"	3917	18 % 6.00 NOS.	171.08	
+110.00 NOS. 50.84 %	324.46	
+13,408.18	
+CGST 9%	
+SGST 9%|	1,206.72	
+ROUND OFF	1,206.72	
+0.38	
+Total	843.00 NOS.	
+ount Chargeable (in words)	Rs 15,822	
+E. & O.E	
+R Fifteen Thousand Eight Hundred Twenty Two Onlyy	
+HSN/SACc	
+able	Central Tax	State Tax	Total	
+Value	
+7	13,237.10 9%	Rate Amount Rate Amount ax Amount	1,191.32	
+1.08	9%	9%	1,191.32	2,382.64	
+15.40	
+Total 13,408.18	1,206.72	15.40	30.80	
+Amount (in words)	1,206.72	2,413.44	
+INR Two Thousand Four Hundred Thirteen and Forty Four paise Only	

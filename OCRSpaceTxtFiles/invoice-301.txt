@@ -1,0 +1,52 @@
+Tax Invoice	(ORIGINAL FOR RECIPIENT)	
+Mohammed Khambhati & Co.	Invoice No.	Dated	
+12, Mlaharani Road	P/1083/19-20	3-Aug-2019	
+Opp. Railwaystation	Delivery Note	Mode/Terms of Payment	
+Indore	
+GSTIN/UIN: 23AAUFM8721C2Z7	Supplier's Ref.	Other Reference(s)	
+State Name Madhya Pradesh, COde: 23	MFZ	
+Consignee	Buyer's Order No.	Dated	
+TBRAHIM ALI & SONS	SFDN	3-Aug-2019	
+SHAKTI ROAD	Despatch Document No.Delivery Note Date	
+BANKHEDI	
+GSTIN/UIN	:23ABSPH7290L1Z3	Despatched through	Destination	
+State Name	Madhya Pradesh, Code: 23	SHAKT ROAD TP	BANKHEDI	
+erms ot Delivery	
+Buyer (if other than consignee)	
+IBRAHIM ALI & sONS	
+SHAKTI ROAD	
+BANKHEDI	
+GSTIN/UIN	:23ABSPH729OL1Z3	
+State Name	: Madhya Pradesh, Code: 23	
+SI	Description of G0ods	HSNSAC Quantity Rate per Disc. % Amount	
+No.	
+PVC	3917	60.00 NOs	45.77 NOS 33 %	1,840.00	
+75MM SWR BEND 87.5 DEG. APOLLO	
+34.75 NOS 33 %	582.00	
+2	PVC	3917	25.00 NOS	
+75MM SWR COUPLER APOLL0	
+25.00 NOS	59.34 NOS 33 %	994.00	
+3	PVC	3917	
+110MM SWR COUPLER APOLLO	
+3,416.00	
+60.00	
+Freight & Cartage Exp. Alc GST	313.0	
+OUTPUT CGST	
+313.0	
+OUTPUT SGST	
+Total	110.00 NO0s	4;102.00	
+E. & O.E	
+Amount Chargeable (in words)	
+INR Four Thousand One Hundred Two Only	axable	Gentral Tax	State 1ax	Total	
+HSN/SAC	
+Value	Rate Amount Rate Amount ax AmOunt	
+3,476.00 9%	313.0O	l3.0O	313.00	b26.	20.00	
+3917	313.00	
+Total 3,476.00	
+Tax Amount (in words)	INR Six Hundred Twenty Six Only	
+Company's Bank Details	
+Bank Name	TDBI BANK	
+EX.CASH PAY.RATE MAX 15 DAYS PAY COND.	Branch 8& IFS Code. TBKLOD00529 & 90 NANDL	RA	ARE	
+Nemarks	Afc No.	:0001 102000051022	
+Company's PAN	AAUFM8721C	for Mohamedallm	
+Declaration	dlare that this invoice shows the actual price ot the goods	

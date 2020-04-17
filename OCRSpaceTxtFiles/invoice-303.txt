@@ -1,0 +1,37 @@
+9EIectrods	RIAL S	
+Ref. No.	Invoice No. 479	(ORIGINAL FOR RECIPIENT)D	DE-2 (M	
+Dated 17-May-2019	
+INDU HARDWARE STORE (from 1-Apr-2018)	
+GSTINUIN: 23ABIPL6223D1 Z3	
+State Name Madhya Pradesh, Code: 23	
+Tax Invoice	***	
+Party: Ibrahim Ali and Sons Bankhedi	
+GSTIN/UIN : 23ABSPH7290L1Z3	
+State Name: Madhya Pradesh, Code: 23	
+Place of Supply: Madhya Pradesh	
+Description of Goods	
+HSN/SAC GSTQuantity Rate	per	Amount	
+Rate	
+ROYAL COL POUCH 500GM 3506	18 %|203 PCS	25.04 PCs	5,084.00	
+SGST	457.56	
+CGST	457.56	
+ROUNDING OFF	0.88	
+Total	203 PCSS	6,000.00	
+E &0E	
+Amount Chargeable (in words)	
+Six Thousand Only	
+Total	
+HSN/SAC	Taxable	Central Tax	State 1 ax	
+Value	Rate | Amount	Rate Amount 1ax Amournt	915.12	
+5,084.00	9%	457.56	9%	457.56	915.12	
+3506	Total	5,084.00|	457.56|	457.56	
+Tax Amount (in words) INR Nine Hundred Fifteen and Twelve paise Only	
+Company's Bank Details	
+Bank Name: PUNJAB NATIONAL BANK AJC	
+Alc No.: 1561002100010696	
+Blanch&FS Code: BHARTIPUR JABALPUR&PUNB0156100	for INDU HARDWARE STORE (from 1-Apr-2018)	
+Declaration	
+We declare that this invoice shows the	Authorised Signatoy	
+actual price of the gOods described and that	
+all particulars are true and correct.	
+This is a Computer Generated Invoice	

@@ -1,0 +1,50 @@
+INVOICE	
+Premium Paint IndustrieS	
+Plot No 82, Industrial Area	Invoice No.	
+Richai, Jabalpur	Dated	
+1829	
+21-Sep-2019	
+GSTIN/UIN: 23AALFP5042N1ZZ	Delivery Note	
+ModelTerms of Payment	
+E-Mail ppi jbp@rediffnmail.com	1829	
+Suppler s Ref.	
+Consignee	Other Reference(s)	
+1829	
+brahime Ali & Sons Bankhedi	Buyer's Order No.	Dated	
+Near Police Station	
+Vladhya Pradesh, Code. 23	GSTIN!UIN 23ABSPH7290L1Z3	Despatch Document No	Delivery Note Date	
+21-Sep-2019	
+Despatched through	Destination	
+Buyer (if other than consignee	
+Ibrahime Ali & Sons Bankhedi	Terms of Delivery	
+Near Police Station	
+Vadhya Pradesh, Code 23	
+GSTIN/UIN:23ABSPH7290L123	
+SI	
+NO.	Description of Goods	
+HSN/SAC Quantity	Rate	per Disc. %	Amount	
+DURO WONDER WHITE 5KG	
+225222000 125.00 piece	70.00 piece	8,750.00	
+PRIME MAGIC LIME 1KG	(625 000 kg)	
+o 25222000 800.00 piece	13.00 piece	10,400.00	
+(809.000 kg)	
+19,150.00	
+CGST	
+2.50 %	478.75	
+SGST	
+2.50 %	478.75	
+im	
+Total	925.00 piece	
+Amount Chargeable (in words)	20,107.50	
+E. &O.E	
+Indian Rupees Twenty Thousand One Hundred Seven	
+and Fifty paise Only	
+Declaration	itt Industrties	
+Company's PAN	AALFP5042N	
+Hor Premim Rint Industries	
+We declare that this invoice shows the actual price of the	
+Plot	
+goods described and that all particulars are true and	AP) 43201	
+-2757152	
+This is a Computer Generated InvOIce	A Authorised Signatory	
+Correct.	

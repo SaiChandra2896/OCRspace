@@ -1,0 +1,47 @@
+TN-22ACRP11396H1ZMA	AJI NAVMAR IU	
+GSTIN: 23ABDPR7067G1ZK	TAX INVoICE	STATE CODE	
+Invoice No. 3817	(ORIGINAL FOR RECIPIENT)	
+Ref. No.	Dated 24-Feb-2019	
+INDU HARDWARE STORE (from 1-Apr-2018)	59123	
+880880880888	
+GSTIN/UIN: 23ABIPL6223D1Z3	
+State Name: Madhya Pradesh, Code: 23	
+Tax Invoice	
+Party: Ibrahim Ali and Sons Bankhedi	
+GSTIN/UIN 23ABSPH7290L 1Z3	
+State Name: Madhya Pradesh, Code: 23	
+Place of Supply: Madhya Pradesh	
+Description of Goods	HSN/SAC GST Quantity	Amount	
+Rate per	
+Rate	
+1ALOX ROLL 80 NO	6805	18 % 50 MT.	21.50 MT	1,075.00	
+2 ALOX ROLL 100 NO	6805	18 % 50 MT	21.52 MT.	1,076.00	
+3 GURMALA CHINGARI	8205	18 % 36 PCS	13.00 PCS	468.00	
+4 GURMALA VwoODEN	8205	18 % 36 PCS	14.50 PCS	522.00	
+HANDLE LIGHT	
+3,141.0DO	
+SGST	282.69	
+CGST	282.69	
+LE	ROUNDING OFF	(0.38	
+Total	3,706.00	
+E. &OE	
+Amount Chargeable (in words)	
+INR Three Thousand Seven Hundred Six Only	
+HSN/SAC	Taxable	Central Tax	State Tax	Total	
+Value	Rate Amount	Rate	AmountTax Amount	
+2,151.00	9%	193.58 90	193.59	387. .18	
+6805	9%	89.10	178.20	
+990.00	9%	891 10|	
+8205	282.69	565.38	
+Total 3,141.000	282.69|	
+1ax Amount (in Words)	INR Five Hundred Sixty Five and Thirty Eight paise Only	
+Company's Bank Details	
+Bank Name: PUNJAB NATIONAL BANK A/C	
+Alc No.: 1561002100010696	
+Branch& FS Code: BHARTIPUR JABALPUR & PUNB0156100	
+for INDU HARDWARE STORE - (from 1Apr-2018)	
+Declaration	
+We declare that this invoice shows the	
+actual price of the goods described and that	Authorised Signatory	
+all particulars are true and correct.	
+This is a Compuer Generated inv0Ice	

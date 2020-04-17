@@ -1,0 +1,48 @@
+SE	TaxlnvoIce	
+DU RELEMEN'TS PTHETD.	RLOeENO	CIGG	
+oF.10-11JAORA COMPOUND, INDORE	ORY-SURVEY NO.331,PLOT NO.10,UDYOG NAGAR,PALDA	
+7	28-Feb-2019	
+Ph.No.0731-4046444,4002259	Delivery Note	Mode/lerms of Payment	
+STIN/OIN: 23AALCS9244G125	
+EMail: somilnarang@gmal.com	State Name: Madhya Pradesh, Code 2s	Supplier's Ref.	Other Reference(s)	
+onsignee	4247	
+Buyer's Order No.	Dated	
+1BRAHIM ALI & SONS	
+DANKHEDI, MOB: 90090-03252, MOB:90090-03252 | Despatch DoGument no.	GSTIN/UIN	23ABSPH7290L1Z3	Delivery Note Date	
+State Name	
+Madhya Pradesh, Code: 23	Despatched through	Destination	
+Buyer (if other than consignee)	MAHARAJA ROAD LINES BANKHEDI	
+IBRAHIM ALI & SONS	Terms of Delivery	
+BANKHEDI, MOB: 90090-03252, MOB 90090-03252	GSTIN/UIN	
+23ABSPH7290L1Z3	
+State Name	
+Madhya Pradesh, Code : 23	
+SI No. & Kind	Description of Goods	
+HSN/SAC Quantity	Rate	Amount	
+NOOPkgs.	per	
+20	
+CORRUGATED PROFILE SHEETS5	72109090 498.000 KG	64.83 KG	32,285.00	
+OUTWARD HAMMALI & TULAl(SALE) 7210	70.00	
+METADOR FREIGHT(SALE) 72109090	105.00	
+CGST ON SALES@9%	2,921.40	
+SGST ON SALES@9%|	2,921.40	
+Less	ROUND OFF	
+(0.80	
+Otal	
+498.000 KG	38,302.00	
+Amount Chargeable (in words)	E.	& O.E	
+INR Thirty Eight Thousand Three Hundred Two Only	
+HSN SAC	Taxable	Central Tax	State Tax	Total	
+Value	Rate Amount	Rate Amount Tax Amount	
+72109090	32,390.00	9%	2,915.10	9%	
+2,915.10 5,830.20	
+7210	70.00	9%	6.30	9%	6.30	12.60	
+Total 32,460.00	2,921.40	2,921.40	5,842.80	
+Tax Amount (in words	INR Five Thousand Eight Hundred Forty Two and Eighty paise Only	
+AALCS9244G	Company's Bank Details	
+Gompany's PAN	Bank Name	:ICICI BANK LTD CC A/C	
+Declaration	We declare that this involce siOws the actual price of the	Alc No.	657451000008	
+Correct. 1.GoodS once sola will not De taken back or	goods described and thnat all pariculars are true and	Branch & IFS Code: USHA GANJ BRANCH, INDORE &ICICO006574	for SUPER ELEMENTS PVT.LTD.	
+2.Our responsIDily Ceases as SOon as the	
+material leave Our Tactory.5.lerest wl De charged@24%	replaced.	for Super lehhents Pyt.Lid	
+ark the g00ds perore taking9 the tactory	

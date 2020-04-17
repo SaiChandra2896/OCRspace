@@ -1,0 +1,49 @@
+88	
+-2	
+TAX INVOICE (CASH)	
+A.R ENTERPRISES	
+(DUPLICATE FOR TRANSPORTER)	AE	
+i or s	invoice No.	D	
+Dated	
+3to	N/U	415C	
+Contocs he MM G 1 24	3-Jul-2019	
+ail 2552 9 165036o11 a0o 23	Delivery Note	Mode/Terms of Payment	
+Bu yer	mtersO0s	asmail, eor	
+BANKHEDI	EBRAHIM & SONS.	Supplier's Ref. Other Reference(S)	
+GSTIN/UIN: 23ABSPH7290L123	Buyer's Order No:Dated	
+tate Name : Madhya Pradesh, Code 23	
+Despatch Dacument No. Delivery Note Date	
+Despatched through Destination	
+Terms Of Delivery	
+Description ot Goods	
+HSN/AC Quantity	Rate	per	Amount	
+1 WIRE NAILS.	7317	
+2 Roofing Nails	731	20.00 Kg	46.00 Kg	920.00	
+10.00 Kg	46.00 Kg	460.00	
+1,380.00	
+CGST	
+124.20	
+SGST	
+Less	124.20	
+R/F	
+(-)0.40	
+Total	
+30.00 K9	1,628.00	
+unt Chargeable (in words)	E. & 0E	
+INR One Thousand Six Hundred Twenty Eight Only	
+HSN/SAC	axable	Central Tax	State Tax	Total	
+Value	Rate Amount	Rate Amount 1ax Amount	
+7317	1,380.0JO	9%	124.20 9%	124.20	248.40	
+Total	1,380.00	124.20	124.200	248.40	
+Tax Amcunt (n words)	INR Two Hundred Forty Eight and Forty paise Only	
+Compay's Bank Details	
+Bank Name: Bank of india	
+Alc NO.	886320110000247	
+Branch&IFS Code: LABRIYA BHERU DHAR ROAD & BKIDO008863	
+Declaration	for A.R ENTERPRISES	
+We declare that this invoice shows the actual	
+price of the goods described and that all particulars are true and correct.	
+pAuthorisedSignalory	
+SUBJECT TO INDORE JURISDICTION	
+This is a Computer Generated Invoice	
+DO	

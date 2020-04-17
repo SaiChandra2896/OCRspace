@@ -1,0 +1,49 @@
+EAIT	
+Tax Invoice	
+MAHARAJA METAL	
+n.No. O731-4971460	Mo.	Invoice No.	147	
+Dated	
+GSTIN/UIN: 23ABVPM2784J220	480	
+State Name: Machya Pradesh, Code: 23	731-4971460,9893046607	Delivery Note	2-May-2019	
+Buyer	Mal : maharajametalmm@9mail.com	
+Ibrahimn Ali & Sons. Bankhedi	Despatch Document No. Delivery Note Date	
+90090032 52	
+GSTIN/UIN: 23ABSPH7290L1Z3	Despatched through Destination	
+M	State Name: Madhya Pradesh, Code 23	
+Description of	
+HSN/SAC	
+Goods	Quantity	Rate	per	Amount	
+15mmx300mm Iron	8302	
+Aldrop	48 pcs	50.00 pcs	2,400.00	
+2 25x6 Screw	
+3 MSScrew 30x7	7318	50 pkt	30.00 pkt	1,500.00	
+4 5 But Hinges	83021010	50 pkt	19.00 pkt	950.00	
+5 Mahavir D Handle 2	8302	20 pkt	140.00 pkt	2,800.00	
+20 dz	58.00	dz	1,160.00	
+8,810.00	
+CGST 9%	
+SGST 9%|	792.90	
+792.90	
+Round off	
+0.20	
+Total	
+10,396.00	
+Amount Chargeable (in words)	
+E. &0.E	
+Indian Rupees Ten Thousand Three Hundred Ninety Six Only	
+HSN/SAC	Taxable	Central Tax	State Tax	
+Total	
+Value	Rate Amount	Rate	Amount	Tax Amount	
+8302	
+3,560.00	9%	320.40	9%	320.40	640.80	
+1,500.00	9%	135.00	9%	135.00	270.00	
+7318	950.00	9%	85.50	9%	85	50	171.00	
+83021010	2,800.00	9%	252.00	9%|	252.00	504.00	
+Total	8,810.00	792.90	792.90	1,585.80	
+Tax Amount (in words): Indian Rupees One Thousand Five Hundred Eighty	
+Five and Eighty paise Only	
+Company's VAT TIN: 23220500025	for MAHARAJA METAL	
+Buyer's VAT TIN 23824802968	
+Declaration	
+Goods Once Sold Will not to be taken Back.	Authorised Signatory	
+This is a Computer Generated Invoice	DoR	

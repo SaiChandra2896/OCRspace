@@ -1,0 +1,39 @@
+GST INVOICE Voucher	
+ABDULA MARKET ,PIPARIYA	GURUNANAR PUSTAK BHANDAR,PIPARIYA - 18-19 (Sales)	nvoice No.	Dated	
+GSTIM/UAN: 23AATPC6283C12T	GPB/CR/1920/0579	Suppliers Ref.	23-Oct-2019	
+Stere Mame: Madhya Pradesh, Code: 283	20/61	Other Reterence(s)	
+Fak 07576-222512	pmlag: 0r576-22512, Aman 9893285777.Pramod. 8959219680. Rajesh. 9179921879	
+Buyer	
+Tbrahim & Sons Bankhedi	
+Bankhedi	
+GSTIN/UIN	23ABSPH7290L 123	
+State Name	
+Madhya Pradesh, Code: 23	
+SI	Description of Goods	HSN/SAC GST	
+Quantity	Rate	
+No.	per DiISc. %	Amount	
+Rate	
+1 DDL SAGAR	3209	18 %	
+2 BOX	728.81 BOx	
+2 DDL SAGAR	3209	1,457.62	
+18 %	3 BOX	728.81 BOx	
+3 DDL SURAJ	3209	18	2,186.43	
+2 BOX	728.81 BOox	
+4 DDL JAMUNI	3209	18 %	5 BOX	728.81 BOX	1,457.62	
+3,644.05	
+8,745.72	
+CGST	787.12	
+SGST	787.12	
+Rount Of	0.04	
+Total	12 BOX	10,320.00	
+Amount Chargeable (in words)	E. & 0.EE	
+Indian Rupees Ten Thousand Three Hundred Twenty Only	
+HSN/SAC	Taxable	Central Tax	State 1ax	Total	
+Value	Rate	Amount	Rate	Amount	Tax Amount	
+209	8,745.72	9%	78. .12	9%	787.	2	1,574.24	
+Total	8,745.72	787.12	787.12	1,574.24	
+Tax Amount (in words)Indian Rupees One Thousand Five Hundred Seventy Four and Twenty Four paise	
+Only	
+for GURUNANAK PUSTAK BHANDAR,PIPARIYA 18-19 (Sales)	
+Authorised Signatory	
+This is a Computer Generated Invoice	

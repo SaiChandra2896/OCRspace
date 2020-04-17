@@ -1,0 +1,64 @@
+Invoice-Cum-Bill of Supply	
+CHAIN HOUSE	
+4/1, Syaganj,lNDORE	
+GObOWN :340/1/1, TIGRIYA BADSHAH,AC ARBATTI COMPLEX,SANWER ROAD, INDORE (.	
+GSTIN/UIN: 23AAHFC7476 R1ZQ	
+Customer	State Name: Medhya Pradesh, Code : 23	
+E-Mail talibengineeringwala@gmal.com	
+1BRAHIM AND SONS BANKHEDI	Imvoice No.	00965/2019-20	
+BANKHEDI	Date	
+GSTIN/UIN	3-May-2019	
+23ABSPH7290L 1Z3	Terms of payment	
+State Name	CREDlT	
+Madhya Pradesh, Code 23	
+SI	
+Description of Goods	
+No.	
+HSN/SAC Quantity	Rate	per	Amount	
+1 SHIP CHAIN	
+2 SHIP CHAIN	7315	50.000 Kgs	
+59.32 Kgs.	2,966.00	
+3 SHIP CHAIN	7315	100.000 Kgs.	
+57.63 Kgs.|	5,763.00	
+4 Crow Bar (TAX FREE)	7315	50.000 Kgs.	56.78 Kgs.	2,839.00	
+5 SR PICKAXE(GETI)	8201	
+30.000 KgS.	57.00 Kgs	1,710.00	
+6 SR PICKAXE(GETI)	8201	| BNDL	
+1,395.00 BNDL	1,395.00	
+8201	1 BNDL	
+1,650.00 BNDL	1,650.00	
+16,323.00	
+CGST	
+1,041.12	
+Less	SGST	
+1,041.12	
+ROUNDOFF	
+-0.24	
+Total	
+R 18,405.00	
+Dunt Chargeable (in words)	E. & O.E	
+jan Rupees Eighteen Thousand Four Hundred Five Only	
+HSN/SAC	Taxable	Central lax	State TaX	Total	
+Value	Rate Amount	Rate	Amount	Tax Amount	
+11,568.00	9%	1,041.12	9%	1,041.12	2,082.24	
+4 755.00	0%	
+Total	16,323.0	1,041.12	1,041.12	2,082.24	
+mount (in words)	Indian Rupees Two Thousand Eic:hty Two and Twenty Four paise Only	
+Balance	23,109.00 Dr	
+Company's Bank Details	
+1t.	18,405.00 Dr	
+1) Bank Name	HDFC BANK	
+alance	41,514.00 Dr	
+Alc cNo.	02818020001692	
+Branch & IFS Code	Cloth Market Indore &HoFgp000281	
+0ODS DELIVERED FRO DFAenk Name	
+SBI BANK	AI28	
+Alc	No.	35406916387	
+EBranch & IFS Code	Siyaganj Indore&9IN 03002	
+for CAIN HO USE	
+Ion	
+are that this invoice shows the actual price of the goods	
+d and that all particulars are true and correct.	
+bisee Sigetgy	
+SUBJECT TO INDORE JURISDICTION	
+This is a Computer Generated Invoice	

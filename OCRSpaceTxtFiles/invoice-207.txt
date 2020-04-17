@@ -1,0 +1,52 @@
+9iohamme	Tax Invoice	
+ammed Khambhati & CCo.	
+12, Maharani Road	pp.	
+Ind	p Ralwaystation	voice No	ted	
+Te	TOt3/19-20	29-Jul-2019	
+Delivery Note	
+GSTIN/UIN: 23AAUFM8721C2Z7	Moderlerms of Payment	
+State Name Madhya Pradesh, Code 23	Supplier's Ref.	Other Reterence(s)	
+Consignee	MUsTAFA BOMBAY	
+1BRAHIM ALI & SONSS	Buyer s Order No.	Dated	
+SHAKTI ROAD	ASGER	29-Jul-2019	
+BANKHEDI	Lespatch Document No	Delivery Note Late	
+GSTIN/UIN	23ABSPH7290L1Z3	
+State Name	Despatched thrOugh	Destination	
+Madhya Pradesh, Code 23	SHARTT ROAD TP	BANKHEDI	
+Tems of Delivery	
+Buyer (it other than consignec)	
+TBRAHIM ALI & SONS	
+SHAKTI ROAD	
+BANKHEDI	
+GSTIN/UIN	23ABSPH7290L 1Z3	
+State Name	Madhya Pradesh, Code: 23	
+Descriptian of G0ods	
+HSN/SAC	
+Quantiy	Rate	per DIse. a	Amount	
+1	PVC	
+75 SWR PPE RING FT 25HG 3WTR APOLLO	3917	25.00 NOS	146.60 NOS	3,665.0p0	
+Freight & Cartage Exp. Alc GST	
+100.0	
+OUTPUT CGST	
+339.00	
+OUTPUT SGST	
+339.00	
+otal	25.00 NoS	4,443.00	
+Amount Chargeable (in words)	
+E. & O.E	
+INR Four Thousand Four Hundred Forty Three Only	
+HSNISAC	Taxable	
+Central Tax	State Tax	Total	
+Value	Rate Amount	Rate	Amount	Tax Amount	
+3917	3,765.0o	9%	339.00	9%	339.00	678.00	
+Total	3,765.00	339.0	339.0	678.0	
+ax Amount (in words)	INR Six Hundred Seventy Eight Only	
+Company's Bank Details	
+maks	
+Bank Name	IDBI BANK	
+K.CASH PAY. RATE MAX 15 DAYS PAY.COND.	Alc No.	0001102000051022	
+mpany's PAN	AAUFMB721C	Branch & IFS Codee	1BKLOO00529 & 90 NANDLAURASdWARE	
+aration	for MohampieKhamhhati2	
+declare that this invoice shows the actual price of the	
+ds described and that all particulars are true and correct.	
+thoised Sint	

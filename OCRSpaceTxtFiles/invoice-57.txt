@@ -1,0 +1,50 @@
+A	
+iron & Steel	12	Tax Invoice	
+INID eharani Roa	(ORIGNAL FOR RECPIENT)	
+ssT ORE	
+SSINUIN: 23BEXPK2733 N3Zw	invoice No.	a-VWay Bill No. bated	
+Name Madhya Pradesh, Code 23	S28/19-20 6411 0582 4247 21-May-zu	
+-vlall burhan@khambatigroup.com	Delivery Note	Mo de/Terms of ayment	
+Consignee	
+Supplier's Ref.	Other FReference(s)	
+BRAHIM ALI & SONS	DN	
+NKHEDI	Buyers Order No.	ated	
+N/UIN	123-SFDN	
+State Name	23ABSPH729OL 123	20-May-2019	
+ya Pra	Tadesh, Code' 23	eBpach Document No.	Delivery Noto D	
+Despatched through	Destination	
+SHAKTI ROAD CARRIER BANKHEDI	
+Buyer (if other than consignee)	Terms of belivery	
+1BRAHIM ALI & SONS	
+BANKHEDI	
+GSTIN/UIN	
+State Name Madhya Pradesh, ode: 23	23ABSPH7290L123	
+NO.	Descriptian of Goods	
+HSN/SAC Quantity	
+1 PROFILE SHEET Kg.	Kate PerDiSC. e Amount	
+ALPRA PROFILE SHEET B.UE PVCGAURD	
+12 X4FT 50NOS	721	1,550.00 KGS	
+66.10 KGS	
+14 X 4FT 25 NOS	1,02,455.00	
+FREIGHT and CARTAGE	
+OUTPUT CGST	1,000.00	
+OUTPUT SGST	9,311.00	
+9,311.00	
+Tota	1,550.00 KGS	
+Amount Chargeable (in words)	1,22,077.00	
+INR One Lakh Twety Two Thousand Seventy Seven Only	E. & O.E	
+HSN/SAC	
+axable	Central Tax	State Tax	TOtal	
+7210	Value	
+1,03,455.00	Rate Amount Rate Amount 1ax Amount	
+Total 1,03,455.00	9% 9,311.00 9% 9,311.00 18.622.00	
+Tax Amount (in words)	9,311.00	9,311.00 18,622.00	
+INR Eighteen Thousand Six Hundred Twenty Two Only	
+emarks	
+X LESS C.D. 50o/TON ON MAX PAY 15 DAYS COND.	
+ompany's PAN	:BEXPK2733N	
+claration	ya Iron&3	
+declare that this invOIce shows the actual price of the goods	
+Scribed and that all particulars are true and correct	NRE	
+erised SigyAtE	
+This is a Computer Generated Invaice	

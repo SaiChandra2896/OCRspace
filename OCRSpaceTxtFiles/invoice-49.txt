@@ -1,0 +1,48 @@
+Tax Invoice	
+84 SIY IGANJ	A.A.khiAMBATI & SONS	
+INDOR	Invoice No.	Daled	
+GSTIN. JIN: 23AACFA2860Q12D	662JK/19-20	Deliver Note	2-May-2019	Mode/Terms of Payment	
+Slate N ne: Madhya Pradesh, Code:23	-IViail aakhambati@gmail.cOm	
+Supplier's Ref.	
+Other Relerence(s)	
+iy er	
+EBRAt ilM & SONS	Buyer Order No.	Daled	
+NEAR ThANA	
+BANKhEo	Despa'ch Document No.	Delivery Note Date	
+GSTN JIN	23ABSPH290L1Z3	
+State Name	Madhya Prasesh, Code 23	Despatched through	Destination	
+Terms of Delivery	
+entact	
+(07576)228469, 9926433252	
+Description of Goods	
+HSN/SAC Quantity	ate	per Disc. %	AmOunt	
+NUT	
+3P	3181110 50.00 KGS	61.00 KGS	3,050.000	
+2 B0i	
+iX3	7318	50.00 KG3S	54.00 KGS	2,700.00	
+3 WEL DED MESH	
+1X16X4 GI	7314	23.90 KGS	52.00 KGS	1,242.80	
+WEI DED MESH	
+7314	202.40 KGS	51.00 KGS	10,322.40	
+1 1X1 3X3	
+11X1X4	
+17,315.20	
+FRIEGHT ON SALES	185.00	
+C GST	
+1,575.02	
+S GST	1,575.02	
+Less	ROUND UP	(-J0.24	
+Bill etails	
+New Ref 620K/19-20	20,650.00 Dr	
+T	326.30 KGS	rs 20,650.00	
+Amounthargeable (in words)	E. & O.E	
+INR Twenty Thousand Six Hundred Fifty Only	
+HSN/SAC	axable	Central 1Tax	State Tax	Total	
+Value	Rate Amount	Rate	Amount Tax An1ount	
+7318110	3,082.59	9%	277.43	9 %	277.4	554 86	
+7318	2,728.85	9%	245.60	9%	245.60	491.	20	
+314	11,688.76	9%	1,051.99	,051.99	2,103.98	
+Total	17,500.20	1,575.02	1,575.02	3,150.04	
+ax Amc int (in words): INR Three Thousand One Hundred Fifty and Four paise Only	
+Company's Bank Details	
+Bank Name	STATE BANK OF INDIA	

@@ -1,0 +1,47 @@
+Tax Invoice	
+GETIN/UIN: 23AATPC6283C1ZT	ABDULLA MARKET PIPARIYA	UNANAK PUSTAK BHANDAR.PIPARIYA - 18-19 (Sales)	
+tate Name: Madhya Pradesh, Code 23	ide.U/5/6-22512 Aman 9893285777 Pramod 8959219680.Rajesh 91799218/	GPB/CR/1920/0498	Suppliers Ref.	19/01	Dated	2b-Sep-2019	Other Reference(s)	
+Fax: 07576-222512	
+Buyer	
+Bankhedi	Ibrahim & Sons Bankhedi	
+GSTIN/UIN	
+State Name	23ABSPH7290L1z3	
+Madhya Pradesh, Code 23	
+S	
+Description of	
+No	HSN/SAC GST	Quantity	Rate	
+Goods	per DISC. %	Amount	
+Rate	
+WODFIN 200 MI	3208	
+WODFIN 500 MI	3208	18 %	100	no	44.15 no	4,415.00	
+Wudfin 4 Ltr	3208	8	24	no	100.28 no	2,406.72	
+8	
+Terminator 100 MI	3808	no	796. .33	no	3,185.32	
+18	
+5	Terminator 250 MI	3808	24 no	8 no	31.83 no	58.83 no	,527.84	
+1,411.92	
+6 Terminator 320ml(Spray)	3808	18 %	24 no	100.17 no	
+2,404.08	
+15,350.88	
+CGST	1,381.58	
+SGST	1,381.58	
+Less	Rount O	()0.04	
+Less.	Dishcount	()144.00	
+Total	224 no	17,970.00	
+E. & OEE	
+Amount Chargeable (in words)	
+Indian Rupees Seventeen Thousand Nine Hundred Seventy Only	State Tax	otal	
+Taxable	Central Tax	
+HSN/SAC	lax Amount	
+Value	Rate	Amount	Rate	Amount	
+1,801.26	
+10,007.04	900.63	9%	900.6	
+480 95	961 1.90	
+3208	5,343.84	9%	480 .95	9%	
+2,763.16	
+3808	Total	15,350.88	1,381.58	1,381.58	
+Tax Arnount (in words)	Indian Rupees Two Thousand Seven Hundred Sixty Three and Sixteen paise Only	
+for GURUNANAK PUSTAK BHANDAR,PIPARIYA -18-19 (Sales	
+Authorised Signator	
+SUBJECT TO PIPARIYA JURISDICTION	
+This is a Computer Generated Invoice	
