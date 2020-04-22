@@ -1,0 +1,74 @@
+
+TOX Invoice
+Tax Invoice
+146 FATEHCHAND 3420 (M AMIARDAS F) & BROTHERS
+Invoice No
+Dated
+5682
+15-/ar-2019
+E-Me11 Buyer State SSINUIN Name rosincoreomen Mednye P3AEMPMSBSOR Prodesh Coue COr 120 23
+Delivery Note
+Mode Terms of Payment
+CASH
+IBRAHIMALI AND SONS
+Supplier's Ref Other Reterence(s)
+VANKHEDI
+Buyer's Order No Dated
+State Name Madhya Pradesh Code 23
+Despatch Document No Delivery Mote Date
+Despatched through Destir. tion
+KHANUJA ROADLINES VANIe IEDI
+Terms of Delivery
+Description of
+HSNISAC Quantity
+Rate
+per
+A ount
+Goods
+1
+HURRICANE LANTERN NOAN
+9405
+1 BOX
+1.150.00 BOX
+1,150.00
+Cgst
+69.00
+Sgst
+69.00
+Total
+1 BOX
+R 1,288.00
+Amount Chargeable (in words)
+&0E
+NR One Thousand Two Huncred Eighty Eight Only
+Taxable
+Central Tax
+Total
+HSN/SAC
+State Tax
+Value
+Rate
+Amount
+Rate
+Amount
+Tax Amount
+1.150.00
+69.00
+6%
+69.00
+138.00
+9405
+6%
+Total
+1.150.00
+69.00
+69.00
+138.00
+Tax Amount (in words) INR One Hundred Thirty Eight Only
+for FATEHOHAND AMARDAS & BROTHERS
+Declaration
+We declare that this invoice shows the
+actual price of the goods describec and that
+Authorised Signatory
+all particulars are true and correct
+This is a Computer Generated Invoice TOX Invoice Tax Invoice 146 FATEHCHAND 3420 (M AMIARDAS F) & BROTHERS Invoice No Dated 5682 15-/ar-2019 E-Me11 Buyer State SSINUIN Name rosincoreomen Mednye P3AEMPMSBSOR Prodesh Coue COr 120 23 Delivery Note Mode Terms of Payment CASH IBRAHIMALI AND SONS Supplier's Ref Other Reterence(s) VANKHEDI Buyer's Order No Dated State Name Madhya Pradesh Code 23 Despatch Document No Delivery Mote Date Despatched through Destir. tion KHANUJA ROADLINES VANIe IEDI Terms of Delivery Description of HSNISAC Quantity Rate per A ount Goods 1 HURRICANE LANTERN NOAN 9405 1 BOX 1.150.00 BOX 1,150.00 Cgst 69.00 Sgst 69.00 Total 1 BOX R 1,288.00 Amount Chargeable (in words) &0E NR One Thousand Two Huncred Eighty Eight Only Taxable Central Tax Total HSN/SAC State Tax Value Rate Amount Rate Amount Tax Amount 1.150.00 69.00 6% 69.00 138.00 9405 6% Total 1.150.00 69.00 69.00 138.00 Tax Amount (in words) INR One Hundred Thirty Eight Only for FATEHOHAND AMARDAS & BROTHERS Declaration We declare that this invoice shows the actual price of the goods describec and that Authorised Signatory all particulars are true and correct This is a Computer Generated Invoice

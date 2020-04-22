@@ -1,0 +1,88 @@
+
+FATSHCHAND 145 ICHAND AMARDAS & BROTHERS
+Tax Invoice
+Invoice No
+Dated
+State
+Narin
+E-Mei
+Name
+adnyememseserizo
+1310
+24-Jur -2019
+Buyer Pradesh. Coce 23
+Madhye
+Delivery Note
+Mode/Terms of Payment
+IBRAHIM ALI AND SONS
+CASH
+Supplier's Ref.
+Other Refarence(s)
+State Name
+VANKHED
+Madhya Pradesh Code 23
+Buyer's Order No.
+Dated
+Despatch Document No
+Delivery Note Date
+Despatched through
+Destination
+KHANUJA
+VANKHEDI
+Terms of Delivery
+ho
+Description of
+Goods
+HSN/SAC
+Quantity
+Rate
+per
+Amount
+1
+HURRICANE LANTERN NUTAN
+9405
+1 BOX
+950.00
+BOX
+950.00
+Cgst
+57.10
+Sgst
+57.00
+Total
+1 BOX
+1,064.00
+Amount Chargeable (in words)
+E. O.E
+NR One Thousand Sixty Four Only
+HSN/SAC
+Taxable
+Centra Tax
+State Tax
+TI otal
+Value
+Rate
+Amount
+Rate
+Amount
+Tax Amount
+9405
+950.00
+6%
+57.00
+6%
+57.00
+14.00
+Total
+950.00
+57.00
+57.00
+114.00
+Tax Amount (in words) I INR One Hundred Fourteen Only
+Declaration
+for FATEHCHAND AMARDAS & BRO THERS
+We declare that this invoice shows the
+actual price of the goods described and that
+all particulars are true and correct.
+w Authorised Signatory
+This is a Computer Generated Invoice FATSHCHAND 145 ICHAND AMARDAS & BROTHERS Tax Invoice Invoice No Dated State Narin E-Mei Name adnyememseserizo 1310 24-Jur -2019 Buyer Pradesh. Coce 23 Madhye Delivery Note Mode/Terms of Payment IBRAHIM ALI AND SONS CASH Supplier's Ref. Other Refarence(s) State Name VANKHED Madhya Pradesh Code 23 Buyer's Order No. Dated Despatch Document No Delivery Note Date Despatched through Destination KHANUJA VANKHEDI Terms of Delivery ho Description of Goods HSN/SAC Quantity Rate per Amount 1 HURRICANE LANTERN NUTAN 9405 1 BOX 950.00 BOX 950.00 Cgst 57.10 Sgst 57.00 Total 1 BOX 1,064.00 Amount Chargeable (in words) E. O.E NR One Thousand Sixty Four Only HSN/SAC Taxable Centra Tax State Tax TI otal Value Rate Amount Rate Amount Tax Amount 9405 950.00 6% 57.00 6% 57.00 14.00 Total 950.00 57.00 57.00 114.00 Tax Amount (in words) I INR One Hundred Fourteen Only Declaration for FATEHCHAND AMARDAS & BRO THERS We declare that this invoice shows the actual price of the goods described and that all particulars are true and correct. w Authorised Signatory This is a Computer Generated Invoice

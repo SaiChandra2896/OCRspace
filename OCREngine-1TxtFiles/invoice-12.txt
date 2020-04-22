@@ -1,0 +1,233 @@
+
+(Refor Seetion 31(1) and 31(2) of COST Act 2017)
+Tax Invoice
+Berger Palnte Indila Limited
+Berger House
+Regd 8 Head Office
+Invoice No. 2
+Involce/customer Order Detallis
+Tot No Park 1-33-22299724 Street Kolkata 700017
+129
+Invoice Date 8
+075-08290-19IVBE
+Despaten Detals
+Time
+31-00T-2019 11:51:2
+Despatcr ID Dato
+Ongine For Buyer Reelipient
+Terms of Payment
+2676417 2010
+Sulomor Address ang DtAe
+Website Fax No 91-33-22277288
+Customer PO
+075 MAPD_40
+CUNomer Code
+No
+Mode of Transport
+big To Code
+70021
+PAN AABCBO976E
+Order Type
+075 ORDER
+1
+Customer Name
+492737
+Email CIN 1434W81923PLC004793
+Internal Order No
+92627
+Transporter Name
+To Address
+Internal Order
+IBRAHI 367004 ALLS SONS
+31-0CT-2019
+Vehicle No
+Dummy Transporter
+ponsumerfeedback@bergorindia.con
+Date
+Consignment Note
+POLICE MAIN Dnatee MARKET TO-MAPD NEAR
+ICRM/CImt Order
+No
+No.
+Consignmont Note
+31-00T-2019
+MP SHANGABAD 461900 BANKHEO DIST
+STATICN
+Date
+State
+GSTIN
+Madhya Pradesh
+Bill From Location Address
+Sales Person
+Syed Azmat Hussaini
+Waybil No
+PAN
+23ABSPH7290L1Z3
+Ship from Location Address (if different from BIU
+Contact No
+From)
+Shipment Details
+Location Code
+075
+Place of Supply Madhya Pradesh
+Location Name
+Bhopal
+Location Code
+075
+Location
+BERGER PAINTS INDIA
+Location Name
+Bhopal
+Consignee Name
+LTD.KHASRANO
+Locatioo Address
+IBRAHTIM ALL SONS
+Address
+BERGER PAINTS INDIA
+Prepayment Detallis
+111/1/1/2/5.LANDMAP
+LTD.KHASRA NO
+Consignee Address
+-IBRAHIM ALI And
+RESHUMRAC
+111/1/1/2/5 .LANDMARK
+SONS(id-116169)
+Advance Document No
+HOTEL PH NO 21. RI NO
+RESHUMRAO HOTEL PH NO 21,
+Advance Document Date
+2.VILLAGE AADAMPUR
+RI NO 2.VILLAGE AADAMPUR
+CHAWNI N,462021
+CHAWNI.IN.46202
+State
+Madhya Pradesh
+STIN
+State
+23AABC80976E1Z:
+GSTIN
+Madhya Pradesh
+nhtact No
+07869929587
+Contact No
+23AABC80976E1ZS
+State
+monil id
+bhopal@bergerindia.com
+07869929587
+GSTIN
+23ABSPH7290L123
+Email Id
+bhopalcbergerindia.com
+Contact No
+Product Code: Description of
+B99
+Goods
+HSN
+Pack
+NOP
+Qty
+Rate per
+Gross
+Special
+Lt/Kg
+Unit
+Value
+Payment
+Discoun
+Discount
+land Other
+Value
+Before Tax
+Tax
+Total Value
+F00B020991040001
+1
+Discount
+BISON WALL PUTTY-.
+3214
+40.00
+25
+1000
+636.00
+15900.0
+0
+0.00
+Kg
+795.00
+0.00
+15105.00
+CGST
+SGST
+9%
+9 %
+1359.45
+1359.45
+TOTAL
+1000
+17823.90
+15900.00
+0
+795
+0.00
+15105.00
+2718.90
+17823.90
+e in Words: Seventeen Thousand Eight Hundred Twenty-Thre Rupees And Ninety Paise Only
+Package Summary
+Discount Summary
+Gross Value
+Amount
+15900.00
+ton:
+0
+Gross Weight
+1000
+B99 Discount
+0
+Total Discount
+795.00
+25
+Net Weight
+Paymen Discount
+795
+Value Before Tax
+15105.00
+m
+O
+Total Liters
+0
+Specia Discoun
+0
+IGSTICGST
+1359.45
+se:
+O
+Total Kgs
+1000
+Other Discount
+0
+SGSTIUTGST
+1359.45
+Value After Tax
+17823.90
+Invoice Amount
+17823.90
+lis once sold cannot be taken back exchanged
+Customer Seal & Signature
+E & OE
+est on overdue accounts is chargeable a 18% p.a
+For Berger Paints India Limited
+sputes are subjected to jurisdiction of the courts of Kolkata
+S otherwise stated, tax on this invoice is not payable reverse charge
+(Authorised Signatory)
+This is a computer-generated invoice in compliance with the
+icts which are subject to MRP, whether purchased before 27th July 2018 or
+Date/Time of receipt of goods
+provisions of the Information Technology Act, 2000 (21 of
+r, must be sold at or below the Revised MRP effective 27th July 2018 as
+2000) and does not require a signature.
+ed by the Company, in compliance with provisions of the GST Act.
+emoval of goods
+emoval of goods
+Page 1 of (Refor Seetion 31(1) and 31(2) of COST Act 2017) Tax Invoice Berger Palnte Indila Limited Berger House Regd 8 Head Office Invoice No. 2 Involce/customer Order Detallis Tot No Park 1-33-22299724 Street Kolkata 700017 129 Invoice Date 8 075-08290-19IVBE Despaten Detals Time 31-00T-2019 11:51:2 Despatcr ID Dato Ongine For Buyer Reelipient Terms of Payment 2676417 2010 Sulomor Address ang DtAe Website Fax No 91-33-22277288 Customer PO 075 MAPD_40 CUNomer Code No Mode of Transport big To Code 70021 PAN AABCBO976E Order Type 075 ORDER 1 Customer Name 492737 Email CIN 1434W81923PLC004793 Internal Order No 92627 Transporter Name To Address Internal Order IBRAHI 367004 ALLS SONS 31-0CT-2019 Vehicle No Dummy Transporter ponsumerfeedback@bergorindia.con Date Consignment Note POLICE MAIN Dnatee MARKET TO-MAPD NEAR ICRM/CImt Order No No. Consignmont Note 31-00T-2019 MP SHANGABAD 461900 BANKHEO DIST STATICN Date State GSTIN Madhya Pradesh Bill From Location Address Sales Person Syed Azmat Hussaini Waybil No PAN 23ABSPH7290L1Z3 Ship from Location Address (if different from BIU Contact No From) Shipment Details Location Code 075 Place of Supply Madhya Pradesh Location Name Bhopal Location Code 075 Location BERGER PAINTS INDIA Location Name Bhopal Consignee Name LTD.KHASRANO Locatioo Address IBRAHTIM ALL SONS Address BERGER PAINTS INDIA Prepayment Detallis 111/1/1/2/5.LANDMAP LTD.KHASRA NO Consignee Address -IBRAHIM ALI And RESHUMRAC 111/1/1/2/5 .LANDMARK SONS(id-116169) Advance Document No HOTEL PH NO 21. RI NO RESHUMRAO HOTEL PH NO 21, Advance Document Date 2.VILLAGE AADAMPUR RI NO 2.VILLAGE AADAMPUR CHAWNI N,462021 CHAWNI.IN.46202 State Madhya Pradesh STIN State 23AABC80976E1Z: GSTIN Madhya Pradesh nhtact No 07869929587 Contact No 23AABC80976E1ZS State monil id bhopal@bergerindia.com 07869929587 GSTIN 23ABSPH7290L123 Email Id bhopalcbergerindia.com Contact No Product Code: Description of B99 Goods HSN Pack NOP Qty Rate per Gross Special Lt/Kg Unit Value Payment Discoun Discount land Other Value Before Tax Tax Total Value F00B020991040001 1 Discount BISON WALL PUTTY-. 3214 40.00 25 1000 636.00 15900.0 0 0.00 Kg 795.00 0.00 15105.00 CGST SGST 9% 9 % 1359.45 1359.45 TOTAL 1000 17823.90 15900.00 0 795 0.00 15105.00 2718.90 17823.90 e in Words: Seventeen Thousand Eight Hundred Twenty-Thre Rupees And Ninety Paise Only Package Summary Discount Summary Gross Value Amount 15900.00 ton: 0 Gross Weight 1000 B99 Discount 0 Total Discount 795.00 25 Net Weight Paymen Discount 795 Value Before Tax 15105.00 m O Total Liters 0 Specia Discoun 0 IGSTICGST 1359.45 se: O Total Kgs 1000 Other Discount 0 SGSTIUTGST 1359.45 Value After Tax 17823.90 Invoice Amount 17823.90 lis once sold cannot be taken back exchanged Customer Seal & Signature E & OE est on overdue accounts is chargeable a 18% p.a For Berger Paints India Limited sputes are subjected to jurisdiction of the courts of Kolkata S otherwise stated, tax on this invoice is not payable reverse charge (Authorised Signatory) This is a computer-generated invoice in compliance with the icts which are subject to MRP, whether purchased before 27th July 2018 or Date/Time of receipt of goods provisions of the Information Technology Act, 2000 (21 of r, must be sold at or below the Revised MRP effective 27th July 2018 as 2000) and does not require a signature. ed by the Company, in compliance with provisions of the GST Act. emoval of goods emoval of goods Page 1 of

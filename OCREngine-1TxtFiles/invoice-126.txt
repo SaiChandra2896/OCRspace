@@ -1,0 +1,128 @@
+
+OET erms of
+ae Name Madhya Pradesh, Code 23
+20 DAY'S
+Supplier's Ref.
+Other Referend
+PUR
+TAX INVOICE (CASH)
+(DUPLICATE FOR TRANSPORTER)
+Note D
+A A.R R ENTERPRISES
+4-40 Srver Ster CARV
+Invoice NO
+Dated
+on
+407c
+2-Jut-2019
+Steste IN/L11 NOBDOL
+Nere
+EDI
+Mechves
+Oreint
+Cocte
+23
+Delivery Note
+Mode/Terms of Payment
+Contact 731-4992552 9165030011 168752
+e-Meit <0OreiI GOr
+Buyer
+Supplier's Ref
+Other Reference(s)
+EBRAHIIV & SONS.
+BANKHEDI
+Buyer's Order NO
+Dated
+GSTIN/UIN 23ABSPH7290L1Z3
+State Name Madhya Pradesh Code 23
+Despatch Document No
+Delivery Note Date
+Despatched through
+Destination
+%
+Terms of Delivery
+%
+Description of Goods
+HSN/SAC
+Quantity
+Rate
+per
+Amount
+1
+WVIRE NAILS.
+7317
+25.00 Kg
+46.66
+Kg
+1.166.50
+2 Roofing Nails
+7317
+25.00 Kg
+50.00
+Kg
+1,250.00
+3 WVire Nails 1 1/2* *14
+7317
+15.00 Kg
+48.00 Kg
+720.00
+4 J BOLT.
+7318
+10.00 Kg
+52.00 Kg
+520.00
+3,656.50
+CGST
+329.09
+.SGST
+329.09
+RIF
+0.32
+Total
+75.00 Kg
+R 4,315.00
+Amount Chargeable (in words)
+E.&O.E
+R Four Thousand Three Hundred Fifteen Only
+HSN/SAC
+Taxable
+Central Tax
+State Tax
+Total
+Value
+Rate
+Amount
+Rate
+Amount
+Tax Amount
+7317
+3,136.50
+9%
+282.29
+9%
+282.29
+564.58
+7318
+520.00
+9%
+46.80
+9%
+46.80
+93.60
+Total
+3,656.50
+329.09
+329.09
+658.18
+Tax Amount (in words) INR Six Hundred Fifty Eight and Eighteen paise Only
+Company's Bank Details
+Bank Name Bank of India
+A/c No. 886320110000247
+Branch & IFS Code LABRIYA BHERU DHAR ROAD & BKID0008863
+Declaration
+for A.R ENTEERPRISES
+We declare that this invoice shows the actual
+price of the goods described and that all particulars are true and correct
+Authorised Signatory
+SUBJECT TO INDORE JURISDICTION
+This is a Computer Generated Invoice OET erms of ae Name Madhya Pradesh, Code 23 20 DAY'S Supplier's Ref. Other Referend PUR TAX INVOICE (CASH) (DUPLICATE FOR TRANSPORTER) Note D A A.R R ENTERPRISES 4-40 Srver Ster CARV Invoice NO Dated on 407c 2-Jut-2019 Steste IN/L11 NOBDOL Nere EDI Mechves Oreint Cocte 23 Delivery Note Mode/Terms of Payment Contact 731-4992552 9165030011 168752 e-Meit <0OreiI GOr Buyer Supplier's Ref Other Reference(s) EBRAHIIV & SONS. BANKHEDI Buyer's Order NO Dated GSTIN/UIN 23ABSPH7290L1Z3 State Name Madhya Pradesh Code 23 Despatch Document No Delivery Note Date Despatched through Destination % Terms of Delivery % Description of Goods HSN/SAC Quantity Rate per Amount 1 WVIRE NAILS. 7317 25.00 Kg 46.66 Kg 1.166.50 2 Roofing Nails 7317 25.00 Kg 50.00 Kg 1,250.00 3 WVire Nails 1 1/2* *14 7317 15.00 Kg 48.00 Kg 720.00 4 J BOLT. 7318 10.00 Kg 52.00 Kg 520.00 3,656.50 CGST 329.09 .SGST 329.09 RIF 0.32 Total 75.00 Kg R 4,315.00 Amount Chargeable (in words) E.&O.E R Four Thousand Three Hundred Fifteen Only HSN/SAC Taxable Central Tax State Tax Total Value Rate Amount Rate Amount Tax Amount 7317 3,136.50 9% 282.29 9% 282.29 564.58 7318 520.00 9% 46.80 9% 46.80 93.60 Total 3,656.50 329.09 329.09 658.18 Tax Amount (in words) INR Six Hundred Fifty Eight and Eighteen paise Only Company's Bank Details Bank Name Bank of India A/c No. 886320110000247 Branch & IFS Code LABRIYA BHERU DHAR ROAD & BKID0008863 Declaration for A.R ENTEERPRISES We declare that this invoice shows the actual price of the goods described and that all particulars are true and correct Authorised Signatory SUBJECT TO INDORE JURISDICTION This is a Computer Generated Invoice

@@ -1,9 +1,8 @@
 const express = require('express');
 const bodyParser = require('body-parser');
 const fs = require('fs');
-const path = require('path');
-const multer = require('multer');
 const csv = require('csv-parser');
+const createCsvWriter = require('csv-writer').createObjectCsvWriter;
 
 
 const app = express();
@@ -23,7 +22,7 @@ const fromDir = (startPath) => {
     return files;
 }
 
-let textFiles = fromDir('./OCRSpaceTxtFiles');
+let textFiles = fromDir('./OCREngine-1TxtFiles');
 
 let csvData = [];
 let resultData = [];
@@ -32,42 +31,51 @@ fs.createReadStream('./OcrData/Extracted Entities.csv').pipe(csv())
         csvData.push(row);
     }).on('end', () => {
         //console.log('asdf', csvData[0])
-        let row = [];
+        let row = {};
         //get the files from OCRSpaceTxtFiles folder
         for (let i = 0; i < textFiles.length; i++) {
             //get object from csvdata
             for (let j = 0; j < csvData.length; j++) {
                 //match invoice number
                 if (parseInt(textFiles[i].match(/(\d+)/)) === parseInt(csvData[j].imagefileId)) {
-                    fs.readFile(`./OCRSpaceTxtFiles/${textFiles[i]}`, 'utf8', (err, txtData) => {
-                        if (err) {
-                            console.log(err);
-                            return err;
-                        }
-                        for (let property in csvData[j]) {
-                            //console.log(csvData[i][property]);
-                            if (csvData[j][property] !== null && txtData.includes(csvData[j][property])) {
-                                row.push(1);
-                                //console.log('matched');
-                            }
-                            else {
-                                row.push(0);
-                                //console.log('not matched');
+                    let textData = fs.readFileSync(`./OCREngine-1TxtFiles/${textFiles[i]}`, { encoding: 'utf8', flag: 'r' });
+                    //console.log(textData, 'one file done');
+                    //row.push(i);
+                    row.imagefileId = i;
+                    for (let property in csvData[j]) {
+                        if (property !== 'imagefileId') {
+                            if (textData !== null && textData[j] !== null && textData.includes(csvData[j][property])) {
+                                row[property] = 1;
+                            } else {
+                                row[property] = 0
                             }
                         }
-                        //console.log(row, 'asf')
-                        pushData(row);
-                        row = [];
-                    })
+                    }
+                    resultData.push(row);
+                    row = {};
                 }
             }
         }
+        const csvWriter = createCsvWriter({
+            path: './result/OCREngine-1Result.csv',
+            header: [
+                { id: 'imagefileId', title: 'imagefileId' },
+                { id: 'InvoiceDate', title: 'Invoice Date' },
+                { id: 'InvoiceNumber', title: 'Invoice Number' },
+                { id: 'VendorGSTIN', title: 'Vendor GSTIN' },
+                { id: 'InvoiceTotal', title: 'Invoice Total' },
+                { id: 'CGST', title: 'CGST' },
+                { id: 'SGST', title: 'SGST' },
+                { id: 'IGST', title: 'IGST' },
+                { id: 'invoiceDueDate', title: 'invoice due date' }
+            ]
+        })
+        csvWriter.writeRecords(resultData).then(() => {
+            console.log('success')
+        }).catch((err) => {
+            console.log(err)
+        })
     });
-
-const pushData = (data) => {
-    resultData.push(data);
-    console.log(resultData.length, 'asdfg');
-}
 
 
 
