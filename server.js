@@ -22,7 +22,7 @@ const fromDir = (startPath) => {
     return files;
 }
 
-let textFiles = fromDir('./OCRSpaceTxtFiles');
+let textFiles = fromDir('./OCREngine-1TxtFiles');
 
 let csvData = [];
 let resultData = [];
@@ -30,7 +30,7 @@ fs.createReadStream('./OcrData/Extracted Entities.csv').pipe(csv())
     .on('data', (row) => {
         csvData.push(row);
     }).on('end', () => {
-        //console.log('asdf', csvData[0])
+        console.log('asdf', csvData[0])
         let row = {};
         //get the files from OCRSpaceTxtFiles folder
         for (let i = 0; i < textFiles.length; i++) {
@@ -38,15 +38,18 @@ fs.createReadStream('./OcrData/Extracted Entities.csv').pipe(csv())
             for (let j = 0; j < csvData.length; j++) {
                 //match invoice number
                 if (parseInt(textFiles[i].match(/(\d+)/)) === parseInt(csvData[j].imagefileId)) {
-                    let textData = fs.readFileSync(`./OCRSpaceTxtFiles/${textFiles[i]}`, { encoding: 'utf8', flag: 'r' });
+                    let textData = fs.readFileSync(`./OCREngine-1TxtFiles/${textFiles[i]}`, { encoding: 'utf8', flag: 'r' });
                     //console.log(textData, 'one file done');
                     //row.push(i);
                     row.imagefileId = csvData[j].imagefileId;
                     for (let property in csvData[j]) {
                         if (property !== 'imagefileId') {
-                            if (textData !== null && textData[j] !== null && textData.includes(csvData[j][property])) {
+                            if (textData !== null && csvData[j][property] !== '' && textData.includes(csvData[j][property])) {
                                 row[property] = 1;
-                            } else {
+                            } else if (csvData[j][property] === '') {
+                                row[property] = '';
+                            }
+                            else {
                                 row[property] = 0
                             }
                         }
@@ -57,7 +60,7 @@ fs.createReadStream('./OcrData/Extracted Entities.csv').pipe(csv())
             }
         }
         const csvWriter = createCsvWriter({
-            path: './result/OCRSpaceResult.csv',
+            path: './result/OCREngine-1Result.csv',
             header: [
                 { id: 'imagefileId', title: 'imagefileId' },
                 { id: 'InvoiceDate', title: 'Invoice Date' },
