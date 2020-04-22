@@ -22,7 +22,7 @@ const fromDir = (startPath) => {
     return files;
 }
 
-let textFiles = fromDir('./OCREngine-1TxtFiles');
+let textFiles = fromDir('./OCRSpaceTxtFiles');
 
 let csvData = [];
 let resultData = [];
@@ -38,10 +38,10 @@ fs.createReadStream('./OcrData/Extracted Entities.csv').pipe(csv())
             for (let j = 0; j < csvData.length; j++) {
                 //match invoice number
                 if (parseInt(textFiles[i].match(/(\d+)/)) === parseInt(csvData[j].imagefileId)) {
-                    let textData = fs.readFileSync(`./OCREngine-1TxtFiles/${textFiles[i]}`, { encoding: 'utf8', flag: 'r' });
+                    let textData = fs.readFileSync(`./OCRSpaceTxtFiles/${textFiles[i]}`, { encoding: 'utf8', flag: 'r' });
                     //console.log(textData, 'one file done');
                     //row.push(i);
-                    row.imagefileId = i;
+                    row.imagefileId = csvData[j].imagefileId;
                     for (let property in csvData[j]) {
                         if (property !== 'imagefileId') {
                             if (textData !== null && textData[j] !== null && textData.includes(csvData[j][property])) {
@@ -57,7 +57,7 @@ fs.createReadStream('./OcrData/Extracted Entities.csv').pipe(csv())
             }
         }
         const csvWriter = createCsvWriter({
-            path: './result/OCREngine-1Result.csv',
+            path: './result/OCRSpaceResult.csv',
             header: [
                 { id: 'imagefileId', title: 'imagefileId' },
                 { id: 'InvoiceDate', title: 'Invoice Date' },
